@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nils C. Prieur"
+title                    : "Siri Birkeland"
 title_separator          : "-"
-name                     : &name "Nils C. Prieur"
-description              : &description "Researcher at Stanford University and the University of Oslo"
-url                      : https://yellowchocobo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Siri Birkeland"
+description              : &description "Associate Professor in Plant Evolutionary Genomics at the Natural History Museum in Oslo"
+url                      : https://siribirkeland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yellowchocobo.github.io"
+repository               : "siribirkeland.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter nilscp
+  username               : &twitter birkeland_siri
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Nils C. Prieur"
-  avatar           : "nilscp_webpicture.jpg"
-  bio              : "Planetary scientist"
+  name             : "Dr. Siri Birkeland"
+  avatar           : "siri_profile.jpg"
+  bio              : "Associate Professor in plant evolutionary genomics working with Nordic plants"
   location         : "Oslo, Norway"
-  employer         : "University of Oslo"
+  employer         : "Natural History Museum, University of Oslo"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=IsEoI2MAAAAJ&hl=en&oi=ao"
-  email            : "prieur.nils@gmail.com"
+  googlescholar    : "https://scholar.google.no/citations?user=MhchjIMAAAAJ&hl=en&oi=ao"
+  email            : "siri.birkeland@nhm.uio.no"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yellowchocobo"
+  github           : "siribi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3705-8081"
+  orcid            : "https://orcid.org/0000-0002-8104-8537"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nilscp"
+  twitter          : "birkeland_siri"
   vine             :
   weibo            :
   xing             :
