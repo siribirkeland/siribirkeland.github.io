@@ -3,17 +3,17 @@ main:
   - title: "Research"
     url: /projects/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Team"
+    url: /talks/   
 
-  - title: "Talks & Awards"
-    url: /talks/    
+  - title: "Publications"
+    url: /publications/ 
+
+  - title: "Our values"
+    url: /resources/
 
   - title: "Teaching"
     url: /teaching/    
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Resources"
-    url: /resources/
