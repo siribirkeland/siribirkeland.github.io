@@ -1,14 +1,14 @@
 ---
 permalink: /projects/
-title: "Current Projects"
+title: "Research interests"
 author_profile: true
 ---
 
-Our goal is to better understand the molecular basis of the processes generating plant diversity, especially speciation and adaptation. In particular, we are interested in how these processes play out in northern plants, and a lot of our work focuses on the Arctic-alpine flora. 
+**Our goal is to better understand the molecular basis of the processes generating plant diversity, especially speciation and adaptation. In particular, we are interested in how these processes play out in northern plants, and a lot of our work focuses on the Arctic-alpine flora.** 
 
-To investigate these topics, we use a number of different approaches, including population genetic methods, phylogenetic comparative methods, comparative transcriptomics, experimental plant work and field collections. We think there is strength in versatile approaches, especially when studying big evolutionary questions!
+**To investigate these topics, we use a number of different approaches, including population genetic methods, phylogenetic comparative methods, comparative transcriptomics, experimental plant work and field collections. We think there is strength in versatile approaches, especially when studying big evolutionary questions!**
 
-Our lab values collection based research, and view working at a Natural History Museum as a unique opportunity to answer questions on the past, present and future of plant distributions.
+**Our lab values collection based research, and view working at a Natural History Museum as a unique opportunity to answer questions on the past, present and future of plant distributions.**
 
 ## Adaptation in Arctic-alpine plants
 We have a special passion for plants that thrive in cold environments! How are some plants able to photosynthesize, grow and reproduce in the Arctic? And how do they survive episodes of freezing temperatures even in the middle of summer? The strong selection pressures imposed by extreme environments tend to leave particularly clear signatures on the genome, which makes it easier for us to deduce the genetic basis of adaptation. These strong selection pressures can even lead to the independent evolution of similar morphological and/or physiological traits in different lineages ("convergent evolution"). In this way, extreme environments can function as natural laboratories for studying how different organisms adapt to the same selection pressures, and even bear a slight resemblance to “replaying life’s tape”, as once famously coined by paleontologist Stephen Jay Gould. 
