@@ -8,43 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Nils. I am currently a researcher at Stanford University and the University of Oslo via a Marie Skłodowska-Curie Global fellowship funded by the European Union (end of project October 2024). My research focuses on studying features (such as impact craters and boulders) on planetary surfaces with the help of AI/Machine Learning. I do that to understand better the formation mechanisms of processes shaping the surfaces of planetary bodies and get a better insight into their geological histories and evolution. As millions of craters, boulders, and other features can be found on planets, moons, and asteroids, I use satellite pictures, QGIS, and deep learning to automatically detect surface processes on planetary bodies. For example, in the BOULDERING project (see Research section), I use an instance segmentation Convolutional Neural Network to automatically detect boulders in the near vicinity of lunar impact structures. The spatial distributions of automatically detected boulders help me take a step towards unraveling the physics behind the ejection impact crater mechanisms. 
-
-# Background
-
-I earned my Ph.D. in Planetary Sciences in 2018 at the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo, under the supervision Prof. Stephanie Werner and Dr. Tobias Rolf in the Earth and Beyond lab, and Prof. Kaï Wünnemann at the Natural History Museum of Berlin. My Ph.D focused on numerical impact crater modeling and the investigation of the effect of different target properties on the diameter of craters. I subsequently did a postdoctoral researcher position in the same lab, where I continued to work on the same project but shifted my focus towards the observations of impact craters with the help of remote sensing. Earlier in my career I  worked outside of academia as a civil engineer and hydrologist in different Norwegian companies based in Oslo (Norway). Over the last few years, I have changed a little bit focus, and I am now working more as a computer scientist,  specifically in the use of deep learning to extract patterns of interest from satellite imagery.  
-
-If you are interested in learning more about my background, and the journey I have taken please download my CV [here](https://github.com/yellowchocobo/yellowchocobo.github.io/tree/master/files/paper1.pdf).
-
-Research interest
-======
-Here are few of my research interests. 
-
-Machine and deep learning applied to remote sensing
-------
-Since 2019/2020 I have been working in AI solutions applied to remote sensing. This is something I am very interested with which combines the multidisciplinary skills I have gathered over the years (remote sensing, programming, GIS, hydrology, physical geography, geohazards). Among others, I am currently training a deep learning algorithm to automatically detect boulders (rock fragments) on planetary surfaces (see Projects). During my time as software engineer at Science & Technology AS Norway, I have been involved in the automatic detection of the pine wilt disease from Sentinel-2 spacecraft imagery (a tree disease currently spreading all over Europe and North America) and the training of semantic segmentation algorithm to automatically detect land use changes in Norway and other European countries.  
-
-Impact cratering
-------
-
-A large part of my researcher career has focus on the study of the formation of impact craters. I have investigated the formation of impact craters with the help of impact numerical models. Among others, I investigated the influence of target properties on crater dimensions, and derived scaling laws so that a relationship between the projectile properties 
-
-![Terrestrial boulder fields (planetary analogs)](/images/M117792992L_thumb.png)
-
-*Caption: Fresh and degraded craters in Oceanus Procellarum, near the crater Flamsteed P. Illumination is from left side of the image, incidence angle is 78°, width is 1400 m [NASA/GSFC/Arizona State University].*
+Hi, my name is Siri and I work at the Natural History Museum in Oslo. I am a plant evolutionary biologist and my goal is to better understand the molecular basis of the processes generating plant diversity, like speciation and adaptation. 
 
 
-Land surface processes on planetary surfaces
-------
-However, in general, I am interested in the study of all land surface processes. During my education,  
+**This web page is currently under development, so please forgive the many unfinished tabs.** 
 
-## Comparative planetology
 
-Both groups I have been part of, The Earth and Beyond group at the Centre of Earth Evolution and Dynamics (Oslo, Norway) and the Earth and Planetary Surface Processes (Stanford, US)
-
-![Terrestrial boulder fields (planetary analogs)](/images/Figure1.png)
-
-*Caption: Comparison of terrestrial locations (a-b, d-e, g-h) with their planetary analogs (c, f, i)*
-
-## News
-- Oct 2023: Test
