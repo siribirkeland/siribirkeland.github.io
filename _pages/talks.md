@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-# Current lab members
+## Current lab members
 
 
-# The EDGE group
+## The EDGE group
 
 
-# Friends and collaborators
+## Friends and collaborators
 
 
