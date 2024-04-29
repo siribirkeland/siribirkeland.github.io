@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##Publications
+## Publications
 Sartorius, AM, Rokicki, J, **Birkeland, S**, Bettella, F, Barth, C, de Lange, A-M G, Haram, M, Shadrin, A, Winterton, A, Steen, NE, Schwarz, E, Stein, DJ, Andreassen, OA, van der Meer, D, Westlye, LT, Theofanopoulou, C, & Quintana, DS (2024). An evolutionary timeline of the oxytocin signaling pathway. Communications Biology, 7(471), 1–13. 
 
 Marie-orleach, L, Glémin, S, Brandrud, MK, Brysting, AK, Gizaw, A, Gustafsson, ALS, Rieseberg, LH, Brochmann, C, & **Birkeland, S** (2024). How does selfing affect the pace and process of speciation ? Cold Spring Harbor Perspectives in Biology, 1–24. 
