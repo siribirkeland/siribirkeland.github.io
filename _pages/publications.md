@@ -5,14 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. 🆕 **Prieur, N. C.**, Amaro, B., Gonzalez, E., Kerner, K., Medvedev S., Rubanenko L., Werner, S. C., Xiao, X., Zastrozhnov, D., Lapôtre, M. G. A (in review). Automatic characterization of boulders on planetary surfaces from high-resolution satellite images. Submitted to Journal of Geophysical Research: Planets.
 
-2. J. Zhao, L. Xiao, Z. Xiao, J. Morgan, G. Osinski, C. Neal, S. Gulick, U. Riller, P. Claeys, S. Zhao, **N. Prieur**, A. Nemchin, and S. Yu (2021). "Shock-deformed Zircons from the Chicxulub Impact Crater and Implications for the Formation of Peak-ring Craters." *Geology 49 (7): 755–760*, [link](https://doi.org/10.1130/G48278.1).
+##Publications
+Sartorius, AM, Rokicki, J, **Birkeland, S**, Bettella, F, Barth, C, de Lange, A-M G, Haram, M, Shadrin, A, Winterton, A, Steen, NE, Schwarz, E, Stein, DJ, Andreassen, OA, van der Meer, D, Westlye, LT, Theofanopoulou, C, & Quintana, DS (2024). An evolutionary timeline of the oxytocin signaling pathway. Communications Biology, 7(471), 1–13. 
 
-3. Ding, C., Xiao, Z., Wu, B., Li, Y., **Prieur, N. C.**, Cai, Y., Su, Y. and Cui, J. (2020). "Fragments delivered by secondary craters at the Chang E-4 landing site." Geophysical Research Letters 123(6, [link](https://doi.org/10.1029/2017JE005463).
+Marie-orleach, L, Glémin, S, Brandrud, MK, Brysting, AK, Gizaw, A, Gustafsson, ALS, Rieseberg, LH, Brochmann, C, & **Birkeland, S** (2024). How does selfing affect the pace and process of speciation ? Cold Spring Harbor Perspectives in Biology, 1–24. 
 
-4. **Prieur, N. C.**, T. Rolf, K. Wünnemann and S. C. Werner (2018). "Formation of Simple Impact Craters in Layered Targets: Implications for Lunar Crater Morphology and Regolith Thickness." Journal of Geophysical Research: Planets 123(6), [link](https://doi.org/10.1029/2017JE005463). 
+**Birkeland, S** (2022). To what degree does hybridization facilitate evolutionary radiations in mountain areas ? National Science Review, 4–5.
 
-5. **Prieur, N. C.**, T. Rolf, R. Luther, K. Wünnemann, Z. Xiao and S. C. Werner (2017). "The effect of target properties on transient crater scaling for simple craters." Journal of Geophysical Research: Planets 122(8), [link](https://doi:10.1002/2017JE005283).
+Cerca J, Petersen B, Lazaro-Guevara JM, Rivera-Colón A, **Birkeland S**, Vizueta J, Li S, Li Q, Loureiro J, Chatchai K, Díaz PJ, Rivas-Torres G, Fernández-Mazuecos M, Vargas P, Mccauley RA, Petersen G, Santos-Bay L, Wales N, Catchen JM, Machado D, Nowak MD, Suh A, Sinha NR, Nielsen LR, Seberg O, Gilbert MTP, Leebens-Mack JH, Rieseberg LH, Martin MD (2022). The genomic basis of the plant island syndrome in Darwin’s giant daisies. Nature Communications, 13(1):3729. 
 
-6. Xiao, Z., **Prieur, N. C.** and S.C. Werner (2016). "The self-secondary crater population of the Hokusai crater on Mercury." Geophysical Research Letters, 43, 7424–7432, [link](https://doi:10.1002/2016GL069868).
+**Birkeland S**, Slotte, T, Brysting, AK, Gustafsson, A L S, Hvidsten, TR, Brochmann, C, & Nowak, MD (2022). What can cold‐induced transcriptomes of Arctic Brassicaceae tell us about the evolution of cold tolerance? Molecular Ecology. 31(16):4271-4285. 
+
+Nowak MD, **Birkeland S**, Mandáková T, Choudhury RR, Guo X, Gustafsson ALS, Gizaw A, Schrøder-Nielsen A, Fracassetti M, Brysting AK, Rieseberg L, Slotte T, Parisod C, Lysak MA, Brochmann C (2021). The genome of Draba nivalis shows signatures of adaptation to the extreme environmental stresses of the Arctic. Molecular Ecology Resources. 21(3):661–676. (Main Cover Story).
+
+**Birkeland S**, Gustafsson ALS, Brysting AK, Brochmann C, Nowak MD (2020). Multiple genetic trajectories to extreme abiotic stress adaptation in Arctic Brassicaceae. Molecular Biology and Evolution. 37(7): 2052–2068. (Cover story). 
+
+Struck TH, Feder JL, Bendiksby M, **Birkeland S**, Cerca J, Gusarov VI, Kistenich S, Larsson K-H, Liow LH, Nowak MD, Stedje B, Bachmann L, Dimitrov D (2018). Finding Evolutionary Processes Hidden in Cryptic Species. Trends in Ecology and Evolution. 33(3):153–163. 
+
+**Birkeland S**, Skjetne IEB, Brysting AK, Elven R, Alsos IG (2017). Living on the edge: Conservation genetics of seven thermophilous plant species in a high Arctic archipelago. AoB Plants. 9(1):1-21 
+
+Alsos IG, Ehrich D, Eidesen PB, Solstad H, Westergaard KB, Schönswetter P, Tribsch A, Birkeland S, Elven R, Brochmann C (2015). Long-distance plant dispersal to North Atlantic islands: Colonization routes and founder effect. AoB Plants. 7(1):1-19. 
+
+Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SDK, Ring KH, Stenseth NC*, Brysting AK (2014). Ethnolinguistic structuring of sorghum genetic diversity in Africa and the role of local seed systems. PNAS. 111(39):14100–14105.
+
+
+##Preprints
