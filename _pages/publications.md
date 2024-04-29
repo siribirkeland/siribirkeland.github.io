@@ -25,7 +25,7 @@ Struck TH, Feder JL, Bendiksby M, **Birkeland S**, Cerca J, Gusarov VI, Kistenic
 
 **Birkeland S**, Skjetne IEB, Brysting AK, Elven R, Alsos IG (2017). Living on the edge: Conservation genetics of seven thermophilous plant species in a high Arctic archipelago. AoB Plants. 9(1):1-21 
 
-Alsos IG, Ehrich D, Eidesen PB, Solstad H, Westergaard KB, Schönswetter P, Tribsch A, Birkeland S, Elven R, Brochmann C (2015). Long-distance plant dispersal to North Atlantic islands: Colonization routes and founder effect. AoB Plants. 7(1):1-19. 
+Alsos IG, Ehrich D, Eidesen PB, Solstad H, Westergaard KB, Schönswetter P, Tribsch A, **Birkeland S**, Elven R, Brochmann C (2015). Long-distance plant dispersal to North Atlantic islands: Colonization routes and founder effect. AoB Plants. 7(1):1-19. 
 
 Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SDK, Ring KH, Stenseth NC*, Brysting AK (2014). Ethnolinguistic structuring of sorghum genetic diversity in Africa and the role of local seed systems. PNAS. 111(39):14100–14105.
 
