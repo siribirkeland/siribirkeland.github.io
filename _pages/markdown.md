@@ -1,10 +1,8 @@
 ---
 permalink: /resources/
-title: "Resources"
+title: "Our values"
 author_profile: true
 ---
-
-# Our values
 
 In our lab, we like to share our enthusiasm for northern plant biology and evolution in a way that inspires curiosity and engagement. Through our collective efforts, we strive to make a positive impact on both the scientific community and society as a whole. 
 
