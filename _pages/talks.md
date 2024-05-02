@@ -10,7 +10,7 @@ author_profile: true
 
 ### Lise Grønnerød Huseby, PhD student
 ![Lise Huseby](/images/Lise_resized4.jpeg) <br />
-Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory for the rate of evolution of hybrid incompatibilities in *Arabidopsis lyrata*. <br />
+Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory in *Arabidopsis lyrata*. <br />
 **E-mail:** l.g.huseby@nhm.uio.no
 
 ### Marie Kristine Brandrud, Guest Researcher
