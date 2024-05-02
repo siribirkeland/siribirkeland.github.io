@@ -9,7 +9,7 @@ author_profile: true
 ## Current lab members
 
 ### Lise Grønnerød Huseby, PhD student
-![Lise Huseby](/master/images/Lise.jpeg) <br />
+![Lise Huseby](/images/Lise.jpeg) <br />
 Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory for the rate of evolution of hybrid incompatibilities in *Arabidopsis lyrata*. <br />
 **E-mail:** l.g.huseby@nhm.uio.no
 
