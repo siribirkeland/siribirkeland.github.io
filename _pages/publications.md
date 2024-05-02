@@ -29,7 +29,7 @@ Alsos IG, Ehrich D, Eidesen PB, Solstad H, Westergaard KB, Schönswetter P, Trib
 
 Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SDK, Ring KH, Stenseth NC*, Brysting AK (2014). **Ethnolinguistic structuring of sorghum genetic diversity in Africa and the role of local seed systems**. *PNAS*. 111(39):14100–14105. [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1401646111)
 
-\*shared contribution
+*\*shared contribution*
 
 ## Preprints
 Hämälä T, Moore C, Cowan L, Carlile M, Gopaulchan D, Brandrud MK, **Birkeland S**, Loose M, Kolář F, Koch MA, & Yant L (2023). **Impact of whole-genome duplications on structural variant evolution in the plant genus *Cochlearia***. *BioRxiv*, 2023.09.29.560073. [link](https://doi.org/10.1101/2023.09.29.560073)
