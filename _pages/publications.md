@@ -7,11 +7,11 @@ author_profile: true
 
 
 ## Publications
-Sartorius AM, Rokicki J, **Birkeland S**, Bettella F, Barth C, de Lange A-M G, Haram M, Shadrin A, Winterton A, Steen NE, Schwarz E, Stein DJ, Andreassen OA, van der Meer D, Westlye LT, Theofanopoulou C, & Quintana DS (2024). **An evolutionary timeline of the oxytocin signaling pathway**. *Communications Biology*, 7(471), 1–13. 
+Sartorius AM, Rokicki J, **Birkeland S**, Bettella F, Barth C, de Lange A-M G, Haram M, Shadrin A, Winterton A, Steen NE, Schwarz E, Stein DJ, Andreassen OA, van der Meer D, Westlye LT, Theofanopoulou C, & Quintana DS (2024). **An evolutionary timeline of the oxytocin signaling pathway**. *Communications Biology*, 7(471), 1–13. [Link](https://www.nature.com/articles/s42003-024-06094-9) 
 
-Marie-orleach L, Glémin S, Brandrud MK, Brysting AK, Gizaw A, Gustafsson ALS, Rieseberg LH, Brochmann C, & **Birkeland S** (2024). **How does selfing affect the pace and process of speciation?** *Cold Spring Harbor Perspectives in Biology*, 1–24. 
+Marie-orleach L, Glémin S, Brandrud MK, Brysting AK, Gizaw A, Gustafsson ALS, Rieseberg LH, Brochmann C, & **Birkeland S** (2024). **How does selfing affect the pace and process of speciation?** *Cold Spring Harbor Perspectives in Biology*, 1–24. [Link](https://cshperspectives.cshlp.org/content/early/2024/03/19/cshperspect.a041426.abstract)
 
-**Birkeland S** (2022). **To what degree does hybridization facilitate evolutionary radiations in mountain areas?** *National Science Review*, 4–5.
+**Birkeland S** (2022). **To what degree does hybridization facilitate evolutionary radiations in mountain areas?** *National Science Review*, 4–5. [Link](https://academic.oup.com/nsr/article/9/12/nwac288/6939856) 
 
 Cerca J, Petersen B, Lazaro-Guevara JM, Rivera-Colón A, **Birkeland S**, Vizueta J, Li S, Li Q, Loureiro J, Chatchai K, Díaz PJ, Rivas-Torres G, Fernández-Mazuecos M, Vargas P, Mccauley RA, Petersen G, Santos-Bay L, Wales N, Catchen JM, Machado D, Nowak MD, Suh A, Sinha NR, Nielsen LR, Seberg O, Gilbert MTP, Leebens-Mack JH, Rieseberg LH, Martin MD (2022). **The genomic basis of the plant island syndrome in Darwin’s giant daisies**. *Nature Communications*, 13(1):3729. 
 
