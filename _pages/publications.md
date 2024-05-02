@@ -27,7 +27,7 @@ Struck TH, Feder JL, Bendiksby M, **Birkeland S**, Cerca J, Gusarov VI, Kistenic
 
 Alsos IG, Ehrich D, Eidesen PB, Solstad H, Westergaard KB, Schönswetter P, Tribsch A, **Birkeland S**, Elven R, Brochmann C (2015). **Long-distance plant dispersal to North Atlantic islands: Colonization routes and founder effect**. *AoB Plants*. 7(1):1-19.[Link](https://academic.oup.com/aobpla/article/doi/10.1093/aobpla/plv036/200777?login=true)
 
-Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SDK, Ring KH, Stenseth NC*, Brysting AK (2014). **Ethnolinguistic structuring of sorghum genetic diversity in Africa and the role of local seed systems**. *PNAS*. 111(39):14100–14105. [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1401646111)
+Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SDK, Ring KH, Stenseth NC, Brysting AK (2014). **Ethnolinguistic structuring of sorghum genetic diversity in Africa and the role of local seed systems**. *PNAS*. 111(39):14100–14105. [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1401646111)
 
 *\*shared contribution*
 
