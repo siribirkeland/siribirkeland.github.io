@@ -9,7 +9,7 @@ author_profile: true
 ## Publications
 Sartorius AM, Rokicki J, **Birkeland S**, Bettella F, Barth C, de Lange A-M G, Haram M, Shadrin A, Winterton A, Steen NE, Schwarz E, Stein DJ, Andreassen OA, van der Meer D, Westlye LT, Theofanopoulou C, & Quintana DS (2024). **An evolutionary timeline of the oxytocin signaling pathway**. *Communications Biology*, 7(471), 1–13. [Link](https://www.nature.com/articles/s42003-024-06094-9) 
 
-Marie-orleach L*, Glémin S*, Brandrud MK, Brysting AK, Gizaw A, Gustafsson ALS, Rieseberg LH, Brochmann C*, & **Birkeland S*** (2024). **How does selfing affect the pace and process of speciation?** *Cold Spring Harbor Perspectives in Biology*, 1–24. [Link](https://cshperspectives.cshlp.org/content/early/2024/03/19/cshperspect.a041426.abstract)
+Marie-orleach L\*, Glémin S\*, Brandrud MK, Brysting AK, Gizaw A, Gustafsson ALS, Rieseberg LH, Brochmann C\*, & **Birkeland S**\* (2024). **How does selfing affect the pace and process of speciation?** *Cold Spring Harbor Perspectives in Biology*, 1–24. [Link](https://cshperspectives.cshlp.org/content/early/2024/03/19/cshperspect.a041426.abstract)
 
 **Birkeland S** (2022). **To what degree does hybridization facilitate evolutionary radiations in mountain areas?** *National Science Review*, 4–5. [Link](https://academic.oup.com/nsr/article/9/12/nwac288/6939856) 
 
@@ -23,7 +23,7 @@ Nowak MD, **Birkeland S**, Mandáková T, Choudhury RR, Guo X, Gustafsson ALS, G
 
 Struck TH, Feder JL, Bendiksby M, **Birkeland S**, Cerca J, Gusarov VI, Kistenich S, Larsson K-H, Liow LH, Nowak MD, Stedje B, Bachmann L, Dimitrov D (2018). **Finding Evolutionary Processes Hidden in Cryptic Species**. *Trends in Ecology and Evolution*. 33(3):153–163. [Link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30290-2)
 
-**Birkeland S***, Skjetne IEB*, Brysting AK, Elven R, Alsos IG (2017). **Living on the edge: Conservation genetics of seven thermophilous plant species in a high Arctic archipelago**. *AoB Plants*. 9(1):1-21 [Link](https://academic.oup.com/aobpla/article/9/1/plx001/2929545?login=true)
+**Birkeland S**\*, Skjetne IEB\*, Brysting AK, Elven R, Alsos IG (2017). **Living on the edge: Conservation genetics of seven thermophilous plant species in a high Arctic archipelago**. *AoB Plants*. 9(1):1-21 [Link](https://academic.oup.com/aobpla/article/9/1/plx001/2929545?login=true)
 
 Alsos IG, Ehrich D, Eidesen PB, Solstad H, Westergaard KB, Schönswetter P, Tribsch A, **Birkeland S**, Elven R, Brochmann C (2015). **Long-distance plant dispersal to North Atlantic islands: Colonization routes and founder effect**. *AoB Plants*. 7(1):1-19.[Link](https://academic.oup.com/aobpla/article/doi/10.1093/aobpla/plv036/200777?login=true)
 
