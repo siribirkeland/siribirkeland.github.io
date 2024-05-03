@@ -16,6 +16,11 @@ Lise is interested in the genetic basis of plant speciation and aims to test the
 ### Marie Kristine Brandrud, Guest Researcher
 
 
+### Co-supervised with other labs
+- Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
+- Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
+
+
 ### You?
 
 
@@ -24,4 +29,25 @@ Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/gr
 ![The EDGE logo](/images/EDGE_logo.png) 
 
 
-## Friends and collaborators
+## Some friends and collaborators
+Abel Gizaw - NBIO, Norway
+Anne Krag Brysting - CEES, University of Oslo, Norway
+Christian Brochmann, Natural History Museum, Oslo, Norway
+Filip Kolar - Charles University, Czech Republic
+Johanna Leppälä - Natural Resources Institute, Finland
+Johannes Daniel Schwarwies - Stanford University, USA
+José Dinneny - Stanford University, USA
+Levi Yant - University of Nottingham, UK
+Loren Rieseberg - University of British Columbia, Vancouver, Canada
+Lovisa Gustafsson - Stavanger Botanical Garden, Norway
+Lucas Marie-Orleach, CNRS, Université de Tours, France
+Marian Schubert - Norwegian University of Life Sciences, Norway
+Margret Veltman - Institut de Recherche Pour le Développement (IRD), Montpellier, France
+Marie Kristine Brandrud - Natural History Museum, Norway
+Nathaniel Street- Umeå University, Sweden
+Peter Hoitinga - University of Groningen & Inholland University of Applied Science, Netherlands
+Simen Sandve - Norwegian University of Life Sciences, Norway
+Siri Fjellheim - Norwegian University of Life Sciences, Norway
+Sylvain Glemin - CNRS, Université Rennes, France
+Tanja Slotte - Stockholm University, Sweden
+Torgeir Hvidsten - Norwegian University of Life Sciences, Norway
