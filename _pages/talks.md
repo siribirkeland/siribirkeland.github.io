@@ -29,7 +29,7 @@ Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/gr
 ![The EDGE logo](/images/EDGE_logo.png) 
 
 
-## Some friends and collaborators
+## Some collaborators and friends
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
 Christian Brochmann, Natural History Museum, Norway <br />
