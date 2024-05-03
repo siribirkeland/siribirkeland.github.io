@@ -42,7 +42,7 @@ Loren Rieseberg - University of British Columbia, Canada <br />
 Lovisa Gustafsson - Stavanger Botanical Garden, Norway <br />
 Lucas Marie-Orleach, CNRS, Université de Tours, France <br />
 Marian Schubert - Norwegian University of Life Sciences, Norway <br />
-Margret Veltman - Institut de Recherche Pour le Développement, Montpellier, France <br />
+Margret Veltman - Institut de Recherche Pour le Développement, France <br />
 Marie Kristine Brandrud - Natural History Museum, Norway <br />
 Nathaniel Street- Umeå University, Sweden <br />
 Peter Hoitinga - University of Groningen & Inholland University of Applied Science, Netherlandsv
