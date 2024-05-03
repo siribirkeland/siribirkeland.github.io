@@ -38,7 +38,7 @@ Johanna Leppälä - Natural Resources Institute, Finland <br />
 Johannes Daniel Schwarwies - Stanford University, USA <br />
 José Dinneny - Stanford University, USA <br />
 Levi Yant - University of Nottingham, UK <br />
-Loren Rieseberg - University of British Columbia, Vancouver, Canada <br />
+Loren Rieseberg - University of British Columbia, Canada <br />
 Lovisa Gustafsson - Stavanger Botanical Garden, Norway <br />
 Lucas Marie-Orleach, CNRS, Université de Tours, France <br />
 Marian Schubert - Norwegian University of Life Sciences, Norway <br />
