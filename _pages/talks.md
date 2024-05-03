@@ -45,7 +45,7 @@ Marian Schubert - Norwegian University of Life Sciences, Norway <br />
 Margret Veltman - Institut de Recherche Pour le Développement, France <br />
 Marie Kristine Brandrud - Natural History Museum, Norway <br />
 Nathaniel Street- Umeå University, Sweden <br />
-Peter Hoitinga - University of Groningen & Inholland University of Applied Science, Netherlandsv
+Peter Hoitinga - University of Groningen & Inholland University of Applied Science, Netherlands <br />
 Simen Sandve - Norwegian University of Life Sciences, Norway <br />
 Siri Fjellheim - Norwegian University of Life Sciences, Norway <br />
 Sylvain Glemin - CNRS, Université Rennes, France <br />
