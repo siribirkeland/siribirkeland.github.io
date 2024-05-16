@@ -24,9 +24,7 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 ![prospective student or postdoc 1](/images/Silhouette_resize.jpeg) ![prospective student or postdoc 2](/images/Silhouette3_resize.jpeg) ![prospective student or postdoc 3](/images/Silhouette4.jpeg) <br />
 We welcome inquiries from motivated individuals who share our passion for plants and evolution! Whether you're a postdoctoral researcher seeking new challenges, a recent MSc looking to pursue a Ph.D., or a bachelor student seeking a potential master project, drop me an email at siri.birkeland@nhm.uio.no! <br />
 <br />
-Note that we will soon be announcing a PhD position within Arctic plant genomics! We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). <br />
-<br />
-The Natural History Museum in Oslo also has their own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) which is announced at a yearly basis.      
+Note that we will soon be announcing a PhD position within Arctic plant genomics! We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). In addition, we have our own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) here at the Natural History Museum which is announced at a yearly basis. <br />
 <br />
 <br />
 ### Co-supervised with other labs
