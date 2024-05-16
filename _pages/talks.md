@@ -33,13 +33,13 @@ Note that we will soon be announcing a PhD position within Arctic plant genomics
 <br />
 <br />
 <br />
-## The EDGE group
+## The EDGE group  <br />
 Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/groups/edge/) at the Natural History Museum in Oslo. EDGE is an interdisciplinary research group consisting of people working on areas ranging from plant speciation and phylogenomics, the development of metabarcoding as a next-generation biodiversity assessment tool for society, and people's influence on wild plants through use and trade throughout history. 
 ![The EDGE logo](/images/EDGE_logo.png) 
 <br />
 <br />
 <br />
-## Collaborators and friends
+## Collaborators and friends  <br />
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
 Christian Brochmann, Natural History Museum, Norway <br />
