@@ -11,12 +11,13 @@ author_profile: true
 ### Lise Grønnerød Huseby, PhD student
 ![Lise Huseby](/images/Lise_resized4.jpeg) <br />
 Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory for the rate of evolution of hybrid incompatibilities in *Arabidopsis lyrata*. <br />
-**E-mail:** l.g.huseby@nhm.uio.no
+**E-mail:** l.g.huseby[at]nhm.uio.no
 <br />
 <br />
 ### Marie Kristine Brandrud, Guest Researcher
 ![Marie Kristine Brandrud](/images/Marie_resize3.jpeg) <br />
 Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of traits leading to less fertility and sterility in arctic selfing species and Marie is currently working to pinpoint those traits with QTL analysis in Cochlearia groenlandica. To investigate chromosome evolution the same genome will be compared to its sister genome in a collaborative project with the Yant Lab at Nottingham University.
+**E-mail:** m.k.brandrud[at]nhm.uio.no
 <br />
 <br />
 ### Co-supervised with other labs
