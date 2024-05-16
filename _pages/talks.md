@@ -25,8 +25,8 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 - Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
 <br />
 <br />
-### You?
-![You?](/images/Silhouette1.png) <br />
+### You? <br />
+![You?](/images/Silhouette2.png) <br />
 We welcome inquiries from motivated individuals who share our passion for plants and evolution! Whether you're a postdoctoral researcher seeking new challenges, a recent MSc looking to pursue a Ph.D., or a bachelor student seeking a potential master project, drop me an email at siri.birkeland@nhm.uio.no! 
 <br />
 Note that we will soon be announcing a PhD position within Arctic plant genomics! We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). The Natural History Museum also has their own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) which is announced at a yearly basis.       
