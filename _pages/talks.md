@@ -16,7 +16,7 @@ Lise is interested in the genetic basis of plant speciation and aims to test the
 <br />
 ### Marie Kristine Brandrud, Guest Researcher
 ![Marie Kristine Brandrud](/images/Marie_resize3.jpeg) <br />
-Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of traits leading to less fertility and sterility in arctic selfing species and Marie is currently working to pinpoint those traits with QTL analysis in Cochlearia groenlandica. To investigate chromosome evolution the same genome will be compared to its sister genome in a collaborative project with the Yant Lab at Nottingham University. <br />
+Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of redproductive incompatibilities in arctic selfing species and Marie is currently working to genetically pinpoint those incompatibilities with QTL analysis in Cochlearia groenlandica. She also aims to investigate chromosome evolution in Cochlearia and will compare the Cochlearia groenlandica genome to its sister genome, Cochlearia excelsa in a collaborative project with the Yant Lab at Nottingham University. <br />
 **E-mail:** m.k.brandrud@nhm.uio.no
 <br />
 <br />
