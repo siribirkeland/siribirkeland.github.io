@@ -26,13 +26,19 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 <br />
 <br />
 ### You?
-
-
+![You?](/images/Silhouette1.png) <br />
+We welcome inquiries from motivated individuals who share our passion for plants and evolution! Whether you're a postdoctoral researcher seeking new challenges, a recent MSc looking to pursue a Ph.D., or a bachelor student seeking a potential master project, drop me an email at siri.birkeland@nhm.uio.no! 
+<br />
+Note that we will soon be announcing a PhD position within Arctic plant genomics! We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). The Natural History Museum also has their own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) which is announced at a yearly basis.       
+<br />
+<br />
+<br />
 ## The EDGE group
 Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/groups/edge/) at the Natural History Museum in Oslo. EDGE is an interdisciplinary research group consisting of people working on areas ranging from plant speciation and phylogenomics, the development of metabarcoding as a next-generation biodiversity assessment tool for society, and people's influence on wild plants through use and trade throughout history. 
 ![The EDGE logo](/images/EDGE_logo.png) 
-
-
+<br />
+<br />
+<br />
 ## Collaborators and friends
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
@@ -48,10 +54,14 @@ Lucas Marie-Orleach, CNRS, Université de Tours, France <br />
 Marian Schubert - Norwegian University of Life Sciences, Norway <br />
 Margret Veltman - Institut de Recherche Pour le Développement, France <br />
 Marie Kristine Brandrud - Natural History Museum, Norway <br />
-Nathaniel Street- Umeå University, Sweden <br />
+Nathaniel Street - Umeå University, Sweden <br />
 Peter Hoitinga - University of Groningen & Inholland University of Applied Science, Netherlands <br />
 Simen Sandve - Norwegian University of Life Sciences, Norway <br />
 Siri Fjellheim - Norwegian University of Life Sciences, Norway <br />
 Sylvain Glemin - CNRS, Université Rennes, France <br />
 Tanja Slotte - Stockholm University, Sweden <br />
 Torgeir Hvidsten - Norwegian University of Life Sciences, Norway <br />
+<br />
+<br />
+<br />
+Sources: Silhouette by <a href="https://www.freepik.com/free-vector/hand-drawn-question-mark-silhouette_81102255.htm#query=anonymous%20profile&position=6&from_view=keyword&track=ais_user&uuid=0a124e14-628a-4df4-b7ee-81b654165112">Freepik</a> 
