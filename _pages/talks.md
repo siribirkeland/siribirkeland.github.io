@@ -14,7 +14,8 @@ Lise is interested in the genetic basis of plant speciation and aims to test the
 **E-mail:** l.g.huseby@nhm.uio.no
 
 ### Marie Kristine Brandrud, Guest Researcher
-
+![Marie Kristine Brandrud](/images/Marie_resize2.jpeg) <br />
+Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of traits leading to less fertility and sterility in arctic selfing species and Marie is currently working to pinpoint those traits with QTL analysis in Cochlearia groenlandica. To investigate chromosome evolution the same genome will be compared to its sister genome in a collaborative project with the Yant Lab at Nottingham University.
 
 ### Co-supervised with other labs
 - Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
@@ -29,7 +30,7 @@ Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/gr
 ![The EDGE logo](/images/EDGE_logo.png) 
 
 
-## Some collaborators and friends
+## Collaborators and friends
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
 Christian Brochmann, Natural History Museum, Norway <br />
