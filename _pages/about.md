@@ -13,6 +13,7 @@ Hi, my name is Siri and I am a plant evolutionary biologist at the Natural Histo
 
 **This web page is currently under development, so please forgive the many unfinished tabs.** 
 
+![Blomsterdalen](/images/Blomsterdalen.JPG) <br />
 
 ## Lab news
 - August 24: Siri gave a presentation about the evolution of cacti to the Norwegian Botanical Association.
