@@ -10,6 +10,8 @@ author_profile: true
 
 **Our lab values collection based research, and view working at a Natural History Museum as a unique opportunity to answer questions on the past, present and future of plant distributions.**
 
+![Glacier buttercup, Ranunculus glacialis](/images/Ranunculus_glacialis.JPG) <br />
+
 ## Adaptation of Arctic-alpine plants
 We have a special passion for plants that thrive in cold environments! How are some plants able to photosynthesize, grow and reproduce despite low temperatures? How do they endure freezing spells even in the middle of summer? The strong selection pressures imposed by extreme environments tend to leave particularly clear signatures on the genome, which makes it easier for us to deduce the genetic basis of adaptation. These strong selection pressures can even lead to the independent evolution of similar morphological and/or physiological traits in different lineages (i.e. convergent evolution). In this way, extreme environments can function as natural laboratories for studying how different organisms adapt to the same selection pressures, and even bear a slight resemblance to “replaying life’s tape”, as once famously coined by paleontologist Stephen Jay Gould. 
 
