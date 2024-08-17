@@ -17,6 +17,8 @@ We have a special passion for plants that thrive in cold environments! How are s
 
 In addition to studying adaptation to current climatic conditions, we are also interested in how Arctic-alpine plants will cope with future climate change. The Arctic is warming at more than twice the global rate, and we are already observing ecological change across the region. Rapid change in combination with limited chance for range displacement make Arctic species especially vulnerable to population reduction and extinction. Increased knowledge on how Arctic species will respond to continued warming is important for making informed conservation decisions, and can be important for policy makers and environmental institutions.
 
+![Greenland](/images/Grønland.JPG) <br />
+
 ## Speciation in Arctic plants
 The Natural History Museum in Oslo has been at the forefront of plant speciation genetics for decades. One significant line of research dates back to the 1990s when Professor Christian Brochmann made a startling discovery: interpopulational crosses of the Arctic diploid Draba fladnizensis were completely sterile! This discovery prompted further investigation, revealing that postzygotic reproductive barriers are surprisingly common among many well-defined Arctic plant species, as evidenced by large-scale crossing experiments.
 
@@ -24,10 +26,12 @@ These reproductive barriers appear to have arisen relatively recently, as geneti
 
 **In our research group, we aim to unravel the mysteries of speciation in the Arctic and discern the broader implications of these findings for our understanding of speciation mechanisms.**
 
+![Fytotronen](/images/Greenhouse.jpg) <br />
+
 ## Convergent evolution 
 Convergent evolution is an ubiquitous pattern in nature: In plants, carnivory has evolved independently at least six times in five different angiosperm orders, and photosynthetic pathways that minimize photorespiration, like C4 and CAM photosynthesis, are estimated to have evolved an astonishingly sixty times each. However, it is still unclear to what degree evolution is also repeatable at the genetic level.
 
 We recently investigated whether evolution follows parallel genetic routes when three plant species independently adapted to the extreme temperature and light conditions of the Arctic region. Our primary discovery revealed that despite originating from different lineages, the three species appeared to have evolved similar suites of adaptations by modifying different components in similar stress response pathways. This indicates that there are many genetic trajectories for adaptation to the Arctic environment. The revelation that there might be greater evolutionary repeatability at the pathway level has sparked our keen interest in exploring the convergent evolution of pathways and networks.
 
-
+![Extractions](/images/RNA.png) <br />
 
