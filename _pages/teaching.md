@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<h2>We are invovled in teaching the following courses<h2>  
+##We are invovled in teaching the following courses 
 
 **BIOS5214 – Biogeography and Biodiversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS5214/index-eng.html)  
 **BIOS4216 – Evolution and Systematics of Organismal Groups: The Plant Kingdom** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/index-eng.html)  
