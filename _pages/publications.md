@@ -7,7 +7,12 @@ author_profile: true
 
 
 ## Publications
-Sartorius AM, Rokicki J, **Birkeland S**, Bettella F, Barth C, de Lange A-M G, Haram M, Shadrin A, Winterton A, Steen NE, Schwarz E, Stein DJ, Andreassen OA, van der Meer D, Westlye LT, Theofanopoulou C, & Quintana DS (2024). **An evolutionary timeline of the oxytocin signaling pathway**. *Communications Biology*, 7(471), 1–13. [Link](https://www.nature.com/articles/s42003-024-06094-9) 
+
+Scharwies JD, Clarke T, Zheng Z, Dinneny A, **Birkeland S**, Veltman MA, Sturrock CJ, Banda J, Torres-Martínez HH, Viana WG, Khare R, Kieber J, Pandey BK, Bennett M, Schnable PS, & Dinneny JR (2025). **Moisture-responsive root-branching pathways identified in diverse maize breeding germplasm**. *Science*, 387(6734), 666–673. [Link](https://www.science.org/doi/10.1126/science.ads5999)
+
+Hämälä T, Moore C, Cowan L, Carlile M, Gopaulchan D, Brandrud MK, Birkeland S, Loose M, Kolář F, Koch MA, & Yant L (2024). **Impact of whole-genome duplications on structural variant evolution in Cochlearia**. *Nature Communications*, 15(1), 5377–13. [Link](https://doi.org/10.1038/s41467-024-49679-y)
+
+Sartorius AM, Rokicki J, **Birkeland S**, Bettella F, Barth C, de Lange A-MG, Haram M, Shadrin A, Winterton A, Steen NE, Schwarz E, Stein DJ, Andreassen OA, van der Meer D, Westlye LT, Theofanopoulou C, & Quintana DS (2024). **An evolutionary timeline of the oxytocin signaling pathway**. *Communications Biology*, 7(471), 1–13. [Link](https://www.nature.com/articles/s42003-024-06094-9) 
 
 Marie-orleach L\*, Glémin S\*, Brandrud MK, Brysting AK, Gizaw A, Gustafsson ALS, Rieseberg LH, Brochmann C\*, & **Birkeland S**\* (2024). **How does selfing affect the pace and process of speciation?** *Cold Spring Harbor Perspectives in Biology*, 1–24. [Link](https://cshperspectives.cshlp.org/content/early/2024/03/19/cshperspect.a041426.abstract)
 
