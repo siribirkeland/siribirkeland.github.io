@@ -4,13 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## We are invovled in teaching the following courses 
+## We are invovled in teaching the following university courses:  
 
 **BIOS5214 – Biogeography and Biodiversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS5214/index-eng.html)  
 **BIOS4216 – Evolution and Systematics of Organismal Groups: The Plant Kingdom** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/index-eng.html)  
 **BIOS2200 – Botanical Diversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS2200/index-eng.html)  
 
-Previous university courses:  
+### Previous courses:  
 **BIN210 - Introduction to Bioinformatics** *Norwegian University of Life Sciences* [Link](https://www.nmbu.no/en/course/BIN210)  
 **BIN315 - Selected Topics in Functional Genomics** *Norwegian University of Life Sciences* [Link](https://www.nmbu.no/en/course/bin315)   
 **ISSMN4030 – A Changing Arctic** *University of Oslo* [Link](https://www.uio.no/studier/emner/iss/nora-sommerskolen/ISSMN4030/)  
