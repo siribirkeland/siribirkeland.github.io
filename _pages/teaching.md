@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-##We are invovled in teaching the following courses 
+## We are invovled in teaching the following courses 
 
 **BIOS5214 – Biogeography and Biodiversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS5214/index-eng.html)  
 **BIOS4216 – Evolution and Systematics of Organismal Groups: The Plant Kingdom** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/index-eng.html)  
@@ -19,5 +19,5 @@ Previous university courses:
 **BIO2120 – Evolutionary Biology** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/index-eng.html) (Now discontinued)  
 **BIO1000 - Elementary Biology** *Univeristy of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO1000/index-eng.html) (Now discontinued)  
 
-Other courses and projects:   
+### Other courses and projects:   
 **Teaching partnership between the Natural History Museum and Hersleb videregående skole**  
