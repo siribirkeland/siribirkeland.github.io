@@ -42,6 +42,8 @@ Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/gr
 ## Collaborators and friends  <br />
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
+Barnabas Daru - Stanford University, USA <br />
+Cassandra Elphinstone - University of British Columbia, Canada <br />
 Christian Brochmann, Natural History Museum, Norway <br />
 Filip Kolar - Charles University, Czech Republic <br />
 Johanna Leppälä - Natural Resources Institute, Finland <br />
@@ -49,15 +51,13 @@ Johannes Daniel Schwarwies - Stanford University, USA <br />
 José Dinneny - Stanford University, USA <br />
 Levi Yant - University of Nottingham, UK <br />
 Loren Rieseberg - University of British Columbia, Canada <br />
-Lovisa Gustafsson - Stavanger Botanical Garden, Norway <br />
+Lovisa Gustafsson - The University Centre in Svalbard, Norway <br />
 Lucas Marie-Orleach, CNRS, Université de Tours, France <br />
-Marian Schubert - Norwegian University of Life Sciences, Norway <br />
 Margret Veltman - Institut de Recherche Pour le Développement, France <br />
 Marie Kristine Brandrud - Natural History Museum, Norway <br />
 Nathaniel Street - Umeå University, Sweden <br />
 Peter Hoitinga - University of Groningen & Inholland University of Applied Science, Netherlands <br />
 Simen Sandve - Norwegian University of Life Sciences, Norway <br />
-Siri Fjellheim - Norwegian University of Life Sciences, Norway <br />
 Sylvain Glemin - CNRS, Université Rennes, France <br />
 Tanja Slotte - Stockholm University, Sweden <br />
 Torgeir Hvidsten - Norwegian University of Life Sciences, Norway <br />
