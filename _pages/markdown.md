@@ -10,4 +10,6 @@ We aim to cultivate a culture of inclusivity and collaboration, where everyone f
 
 Through our collective efforts, we strive to make a positive impact on both the scientific community and society as a whole. 
 
+*These values reflect not only who we are but who we aspire to be in academia. We recognize that they may sound idealistic, but we believe it's important to articulate the kind of scientific community we want to create—so that we can actively work toward it.*
+
 ![Light](/images/Mirror.JPG) <br />
