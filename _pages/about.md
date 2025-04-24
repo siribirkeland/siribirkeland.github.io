@@ -10,9 +10,6 @@ redirect_from:
 
 Hi, my name is Siri and I am a plant evolutionary biologist at the Natural History Museum in Oslo. In my research, I aim to better understand the molecular basis of the processes generating plant diversity, like speciation and adaptation. 
 
-
-**This web page is currently under development, so please forgive the many unfinished tabs.** 
-
 ![Blomsterdalen](/images/Blomsterdalen.JPG) <br />
 
 ## Lab news
