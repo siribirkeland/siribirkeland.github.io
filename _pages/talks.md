@@ -33,18 +33,18 @@ We welcome inquiries from motivated individuals who share our passion for plants
 We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). In addition, we have our own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which is announced at a yearly basis. <br />
 <br />
 <br />
-### Co-supervised with other labs <br />
+### Co-supervised with other labs
 - Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
 - Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
 <br />
 <br />
-### The EDGE group ### <br />
+### The EDGE group ###
 Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/groups/edge/) at the Natural History Museum in Oslo. EDGE is an interdisciplinary research group consisting of people working on areas ranging from plant speciation and phylogenomics, the development of metabarcoding as a next-generation biodiversity assessment tool for society, and people's influence on wild plants through use and trade throughout history. 
 ![The EDGE logo](/images/EDGE_logo.png) 
 <br />
 <br />
 <br />
-### Collaborators and friends ### <br />
+### Collaborators and friends
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
 Barnabas Daru - Stanford University, USA <br />
