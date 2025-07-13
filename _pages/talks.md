@@ -45,7 +45,7 @@ Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/gr
 <br />
 <br />
 <br />
-## Collaborators and friends  <br />
+### Collaborators and friends  <br />
 Abel Gizaw - NBIO, Norway <br />
 Anne Krag Brysting - CEES, University of Oslo, Norway <br />
 Barnabas Daru - Stanford University, USA <br />
