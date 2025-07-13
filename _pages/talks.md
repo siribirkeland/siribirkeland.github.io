@@ -9,19 +9,19 @@ author_profile: true
 
 ### Lise Grønnerød Huseby, PhD student
 
-![Lise Huseby](/Users/siribirkeland/GIT/siribirkeland.github.io/images/Lise_resized4.jpeg) 
+![Lise Huseby](/images/Lise_resized4.jpeg) 
+Lise is interested in the genetic basis of pla
 
 
-Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory for the rate of evolution of hybrid incompatibilities in *Arabidopsis lyrata*. <br />
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
-
 
 ### Marie Kristine Brandrud, Guest Researcher
 
-![Marie Kristine Brandrud](/Users/siribirkeland/GIT/siribirkeland.github.io/images/Marie_resize3.jpeg) 
+![Marie Kristine Brandrud](/images/Marie_resize3.jpeg) 
+
+Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of redproductive incompatibilities in arctic selfing species, and Marie is currently working to genetically pinpoint those incompatibilities with QTL analysis in Cochlearia groenlandica. She also aims to investigate chromosome evolution in Cochlearia and will compare the Cochlearia groenlandica genome to its sister, Cochlearia excelsa, in a collaborative project with the Yant Lab at Nottingham University. 
 
 
-Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of redproductive incompatibilities in arctic selfing species, and Marie is currently working to genetically pinpoint those incompatibilities with QTL analysis in Cochlearia groenlandica. She also aims to investigate chromosome evolution in Cochlearia and will compare the Cochlearia groenlandica genome to its sister, Cochlearia excelsa, in a collaborative project with the Yant Lab at Nottingham University. <br />
 **E-mail:** [m.k.brandrud@nhm.uio.no](mailto:m.k.brandrud@nhm.uio.no)
 
 
@@ -35,7 +35,7 @@ We are excited to announce an opening for a PhD Research Fellow in Plant Evoluti
 
 ### You?
 
-![prospective student or postdoc 1](/Users/siribirkeland/GIT/siribirkeland.github.io/images/Silhouette_resize.jpeg) 
+![prospective student or postdoc 1](/images/Silhouette_resize.jpeg) 
 
 
 We welcome inquiries from motivated individuals who share our passion for plants and evolution! Whether you're a postdoctoral researcher seeking new challenges, a recent MSc looking to pursue a Ph.D., or a bachelor student seeking a potential master project, drop me an email at [siri.birkeland@nhm.uio.no](mailto:siri.birkeland@nhm.uio.no)! 
@@ -49,9 +49,8 @@ We are also happy to support individual postdoc and researcher applications like
 ### Co-supervised with other labs
 
 - Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
+
 - Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
-  
-  
 
 ### The EDGE group
 
