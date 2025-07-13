@@ -33,10 +33,9 @@ We welcome inquiries from motivated individuals who share our passion for plants
 We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). In addition, we have our own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which is announced at a yearly basis. <br />
 <br />
 <br />
-### Co-supervised with other labs
+### Co-supervised with other labs <br />
 - Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
 - Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
-<br />
 <br />
 <br />
 ### The EDGE group ### <br />
