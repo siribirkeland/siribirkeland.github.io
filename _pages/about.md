@@ -13,6 +13,8 @@ Hi, my name is Siri and I am a plant evolutionary biologist at the Natural Histo
 ![Blomsterdalen](/images/Blomsterdalen.JPG) <br />
 
 ## Lab news
+- **June 30**: Excited to share two new preprints: "1000 conifer genomes: Genome innovation, organisation and diversity" [Link](https://www.researchsquare.com/article/rs-6502828/v1) and "Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees" [Link](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1.abstract) :evergreen_tree: :deciduous_tree: 
+- **June 5**: We were pleased to welcome Dr. Elizabeth Stunz from the University of Gothenburg for a visit to the lab. She delivered an excellent Tangled Bank Seminar titled "Landscape resistance and gene flow dynamics of widespread Arctic sedge and shrub species in Alaska, USA." 
 - **Februrary 25**: New paper! "Moisture-responsive root-branching pathways identified in diverse maize breeding germplasm" is now published in Science! This is the result of a fun collaboration with the Dinneny lab at Stanford University. A big congrats to José Dinneny and lead author Johannes Scharwies! [Link](https://www.science.org/doi/10.1126/science.ads5999) 
 - **February 25**: Visit from Assistant Professor Barnabas Daru, Stanford University. @Barnabas: Thank you so much for giving a very interesting workshop on "The Hidden Potential of Herbarium Specimens for Biogeography and Ecology" for us at the Natural History Museum in Oslo!
 - **February 25**: We have two visitors to the group this spring: PhD student Tereza Koberová from the Kolář group in Prague, Czechia and postdoc Lucia Moreyra from the Susanna group at Institut Botànic de Barcelona, Spain - Welcome!
