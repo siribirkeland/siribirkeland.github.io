@@ -10,7 +10,8 @@ author_profile: true
 ### Lise Grønnerød Huseby, PhD student
 
 ![Lise Huseby](/images/Lise_resized4.jpeg) 
-Lise is interested in the genetic basis of pla
+
+Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory for the rate of evolution of hybrid incompatibilities in *Arabidopsis lyrata*. 
 
 
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
@@ -25,7 +26,7 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 **E-mail:** [m.k.brandrud@nhm.uio.no](mailto:m.k.brandrud@nhm.uio.no)
 
 
-### New PhD Position Available
+## New PhD Position Available
 
 We are excited to announce an opening for a PhD Research Fellow in Plant Evolutionary Genomics. The position offers the opportunity to explore evolutionary processes in Arctic plants using experimental and population genomic approaches.
 
@@ -46,17 +47,17 @@ We are also happy to support individual postdoc and researcher applications like
 
 
 
-### Co-supervised with other labs
+## Co-supervised with other labs
 
 - Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
 
 - Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
 
-### The EDGE group
+## The EDGE group
 
 Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/groups/edge/) at the Natural History Museum in Oslo. EDGE is an interdisciplinary research group consisting of people working on areas ranging from plant speciation and phylogenomics, the development of metabarcoding as a next-generation biodiversity assessment tool for society, and people's influence on wild plants through use and trade throughout history.   
 
-### Collaborators and friends
+## Collaborators and friends
 
 - Abel Gizaw - NBIO, Norway  
 
