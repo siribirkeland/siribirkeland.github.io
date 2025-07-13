@@ -20,11 +20,16 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 **E-mail:** [m.k.brandrud@nhm.uio.no](mailto:m.k.brandrud@nhm.uio.no)
 <br />
 <br />
+### New PhD Position Available
+We are excited to announce an opening for a PhD Research Fellow in Plant Evolutionary Genomics. The position offers the opportunity to explore evolutionary processes in Arctic plants using experimental and population genomic approaches.
+📌 Learn more and apply here [Link](https://www.jobbnorge.no/en/available-jobs/job/281132/phd-research-fellow-in-plant-evolutionary-genomics)
+<br />
+<br />
 ### You? <br />
 ![prospective student or postdoc 1](/images/Silhouette_resize.jpeg) <br />
 We welcome inquiries from motivated individuals who share our passion for plants and evolution! Whether you're a postdoctoral researcher seeking new challenges, a recent MSc looking to pursue a Ph.D., or a bachelor student seeking a potential master project, drop me an email at [siri.birkeland@nhm.uio.no](mailto:siri.birkeland@nhm.uio.no)! <br />
 <br />
-Note that we will soon be announcing a PhD position within Arctic plant genomics! We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). In addition, we have our own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which is announced at a yearly basis. <br />
+We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). In addition, we have our own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which is announced at a yearly basis. <br />
 <br />
 <br />
 ### Co-supervised with other labs
