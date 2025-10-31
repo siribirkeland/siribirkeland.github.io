@@ -13,6 +13,12 @@ Hi, my name is Siri and I am a plant evolutionary biologist at the Natural Histo
 ![Blomsterdalen](/images/Blomsterdalen.JPG) <br />
 
 ## Lab news
+- **October 31**: New paper in *Trends of Plant Science* "An updated perspective: what genes make a tree a tree?" [Link](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(25)00282-1?rss=yes)
+- **October 14**: Congratulations to our new postdoc, Cassandra Elphinstone, for winning the audience prize for her presentation during the MSc, PhD, and postdoc days at the Natural History Museum!
+- **October 6**: We are thrilled to welcome Cassandra Elphinstone, who is joining us during her NSERC postdoctoral fellowship! We look forward to working with you, Cassandra!
+- **September 25**: This week we were very lucky to host Levi Yant! He gave a fascinating talk in our Tangled Bank seminar series entitled “A Polyploid Paradox: Might Polyploid Diversity Arise from Maladapted DNA Replication and Repair?” Thank you, Levi!
+- **September 15**: We are very pleased to welcome Fenna Sondorp to the lab. Fenna is an intern from the Inholland University of Applied Sciences and will stay with us until May.
+- **July 29**: Super happy to finally see our opinion piece on pathway convergence out in *Trends in Genetics* [Link](https://www.cell.com/trends/genetics/fulltext/S0168-9525(25)00160-X). Written together with colleague and friend, Peter Hoitinga. 
 - **July 1**: We are excited to announce an opening for a PhD Research Fellow in Plant Evolutionary Genomics. The position offers the opportunity to explore evolutionary processes in Arctic plants using experimental and population genomic approaches. [Link](https://www.jobbnorge.no/en/available-jobs/job/281132/phd-research-fellow-in-plant-evolutionary-genomics) 
 - **June 30**: Excited to share two new preprints: "1000 conifer genomes: Genome innovation, organisation and diversity" [Link](https://www.researchsquare.com/article/rs-6502828/v1) 🌲 and "Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees" [Link](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1.abstract) 🌳
 - **June 5**: We were pleased to welcome Dr. Elizabeth Stunz from the University of Gothenburg for a visit to the lab. She delivered an excellent Tangled Bank Seminar titled "Landscape resistance and gene flow dynamics of widespread Arctic sedge and shrub species in Alaska, USA." 
