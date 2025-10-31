@@ -14,6 +14,7 @@ Hi, my name is Siri and I am a plant evolutionary biologist at the Natural Histo
 
 ## Lab news
 - **October 31**: New paper in *Trends of Plant Science* "An updated perspective: what genes make a tree a tree?" [Link](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(25)00282-1?rss=yes)
+- **October 29**: In memory of Richard Abbott: "Phylogeography of Arctic plants: where are we after 35 years, and where to go?" [Link](https://www.tandfonline.com/doi/full/10.1080/17550874.2025.2571098#abstract)
 - **October 14**: Congratulations to our new postdoc, Cassandra Elphinstone, for winning the audience prize for her presentation during the MSc, PhD, and postdoc days at the Natural History Museum!
 - **October 6**: We are thrilled to welcome Cassandra Elphinstone, who is joining us during her NSERC postdoctoral fellowship! We look forward to working with you, Cassandra!
 - **September 25**: This week we were very lucky to host Levi Yant! He gave a fascinating talk in our Tangled Bank seminar series entitled “A Polyploid Paradox: Might Polyploid Diversity Arise from Maladapted DNA Replication and Repair?” Thank you, Levi!
