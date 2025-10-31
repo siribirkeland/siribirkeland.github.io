@@ -27,7 +27,7 @@ Lise is interested in the genetic basis of plant speciation and aims to test the
 
 Fenna is an intern from Inholland University of Applied Sciences in the Netherlands, pursuing a bachelor’s degree in Biology and Medical Laboratory Research. She is currently completing an internship focused on long-read sequencing of Arctic plants.
 
-**E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
+**E-mail:** [fennasondorp@gmail.com](mailto:fennasondorp@gmail.com)
 
 ### Marie Kristine Brandrud, Guest Researcher
 
