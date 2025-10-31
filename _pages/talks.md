@@ -8,8 +8,7 @@ author_profile: true
 ## Current lab members
 
 ### Cassandra Elphinstone, Postdoc
-![Cassandra Elphinstone](/images/elphinstone_cassandra-1.jpg)
-<img src="elphinstone_cassandra-1.jpg" alt="drawing" width="200"/>
+![Cassandra Elphinstone](/images/elphinstone_cassandra-1-min.jpg)
 Cassandra is a two year NSERC postdoctoral fellow studying the genomics of Arctic plants in Siri Birkeland's lab at the Naturhistorisk Museum at the University of Oslo in Norway. She is also collaborating with and will spend about a third of her time in the Todesco Lab at the University of British Columbia in Vancouver, Canada. Her postdoctoral research is exploring the role of structural variation in local adaptation in selfing and outcrossing Arctic species. What types of genomic variation are involved in the local adaptation of plants to diverse tundra environments (single base pair changes and/or larger chromosomal rearrangements)? Does the genomics of local adaptation differ between tundra species that reproduce through self-fertilization (selfing) and species that rely on fertilization from other individuals (outcrossing)?
 
 **E-mail:** [cassandra.elphinstone@gmail.com](mailto:cassandra.elphinstone@gmail.com)
