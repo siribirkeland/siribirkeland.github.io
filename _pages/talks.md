@@ -24,6 +24,7 @@ Lise is interested in the genetic basis of plant speciation and aims to test the
 
 ### Fenna Sondorp, Intern
 ![Fenna Sondorp](/images/Fenna_Sondorp_25_1_75.jpeg)
+
 Fenna is an intern from Inholland University of Applied Sciences in the Netherlands, pursuing a bachelor’s degree in Biology and Medical Laboratory Research. She is currently completing an internship focused on long-read sequencing of Arctic plants.
 
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
