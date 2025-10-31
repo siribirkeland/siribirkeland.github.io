@@ -37,12 +37,6 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 
 **E-mail:** [m.k.brandrud@nhm.uio.no](mailto:m.k.brandrud@nhm.uio.no)
 
-## New PhD Position Available
-
-We are excited to announce an opening for a PhD Research Fellow in Plant Evolutionary Genomics. The position offers the opportunity to explore evolutionary processes in Arctic plants using experimental and population genomic approaches.
-
-📌 Learn more and apply here [Link](https://www.jobbnorge.no/en/available-jobs/job/281132/phd-research-fellow-in-plant-evolutionary-genomics)
-
 ### You?
 
 ![prospective student or postdoc 1](/images/Silhouette_resize.jpeg) 
