@@ -7,6 +7,13 @@ author_profile: true
 
 
 ## Publications
+**Birkeland S**, Soldado ER, Ranade SS, García-Gil MR, Choudhary S, Tuominen H, Mellerowicz EJ, Street NR, Hvidsten TR (now online). **An updated perspective: what genes make a tree a tree?** *Trends in Plant Science*. [Link](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(25)00282-1?rss=yes)
+
+Hoitinga PK, & **Birkeland S** (2025). **Pathway-level convergence: an underexplored aspect of convergent evolution**. *Trends in Genetics*, 41(10), 853–867. [Link](https://doi.org/10.1016/j.tig.2025.06.009)
+
+Moreyra LD, Calleja JA, Roquet C, **Birkeland S**, Blanco-Gavaldà C, Galbany-Casals M, Gizaw A, Leliaert F, Brochmann C, Susanna A (2025). **Hidden Lineages in the African Sky Islands: A taxonomic reevaluation of Afrocarduus (Compositae)**. *Journal of Systematics and Evolution*, [Link](10.1111/jse.70024).
+
+Moreyra LD, Roquet C, Susanna A, **Birkeland, S**, Blanco‐Gavaldà C, Brochmann C, Chala D, Galbany‐Casals M, Gizaw A, & Calleja JA (2025). **From Pleistocene Corridors to Isolated Peaks and Back: Biogeography of Afrocarduus (Compositae) in the Afromontane Archipelago**. *Journal of Biogeography*, 52(11) [Link](https://doi.org/10.1111/jbi.70045)
 
 Scharwies JD, Clarke T, Zheng Z, Dinneny A, **Birkeland S**, Veltman MA, Sturrock CJ, Banda J, Torres-Martínez HH, Viana WG, Khare R, Kieber J, Pandey BK, Bennett M, Schnable PS, & Dinneny JR (2025). **Moisture-responsive root-branching pathways identified in diverse maize breeding germplasm**. *Science*, 387(6734), 666–673. [Link](https://www.science.org/doi/10.1126/science.ads5999)
 
