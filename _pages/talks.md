@@ -17,11 +17,11 @@ Cassandra is a two year NSERC postdoctoral fellow studying the genomics of Arcti
 ### César Herrero González, Doctoral Research Fellow
 ![Cesar Herrero Gonzalez](/images/Cesar_50_1_50.jpg)
 
-Cassandra is a two year NSERC postdoctoral fellow studying the genomics of Arctic plants in the Birkeland lab. She is also collaborating with and will spend about a third of her time in the Todesco Lab at the University of British Columbia in Vancouver, Canada. Her postdoctoral research is exploring the role of structural variation in local adaptation in selfing and outcrossing Arctic species. What types of genomic variation are involved in the local adaptation of plants to diverse tundra environments (single base pair changes and/or larger chromosomal rearrangements)? Does the genomics of local adaptation differ between tundra species that reproduce through self-fertilization (selfing) and species that rely on fertilization from other individuals (outcrossing)?
+César is a PhD candidate studying the genomic basis of plant adaptation to Arctic environments. His research focuses on identifying convergent genomic signatures associated with adaptation to extreme conditions. He previously trained at the Universidad Complutense de Madrid, where he studied climate-driven variation in Mediterranean fir species, and completed his master’s at the Norwegian University of Life Sciences, working on the genomic and epigenomic structure of grasses.
 
-**E-mail:** [cassandra.elphinstone@gmail.com](mailto:cassandra.elphinstone@gmail.com)
+**E-mail:** [c.h.gonzalez@nhm.uio.no](mailto:c.h.gonzalez@nhm.uio.no)
 
-### Lise Grønnerød Huseby, PhD student
+### Lise Grønnerød Huseby, Doctoral Research Fellow
 
 ![Lise Huseby](/images/Lise_resized4.jpeg) 
 
