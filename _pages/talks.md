@@ -25,7 +25,7 @@ César is a PhD candidate studying the genomic basis of plant adaptation to Arct
 
 ![Lise Huseby](/images/Lise_resized4.jpeg) 
 
-Lise is a PhD candidate interested in the genomic basis of plant speciation and how it is influenced by mating system. She did her MSc thesis on the population genetics and ecology of the endangered plant *Drymocallis rupestris*. Lise is currently working at NORSKOG.
+Lise is a PhD candidate interested in the genomic basis of plant speciation and how it is shaped by mating systems. She completed her MSc thesis on the population genetics and ecology of the endangered plant Drymocallis rupestris. She is currently working at NORSKOG.
 
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
 
