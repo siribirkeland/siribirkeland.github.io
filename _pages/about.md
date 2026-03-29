@@ -14,8 +14,9 @@ Hi, my name is Siri and I am a plant evolutionary biologist at the Natural Histo
 
 ## Lab news
 - **March 26**: We are delighted to welcome César Herrero González to the lab! As a new PhD student, César will investigate adaptation and convergent evolution in Arctic plants.
+- **March 26**: Our latest popular science article highlights the potential of herbaria to reveal new insights into plant distribution changes and evolutionary processes. [Link](https://www.forskning.no/botanikk-klima-miljo/gamle-plantesamlinger-avslorer-at-naturen-endrer-seg-lynraskt/2626979)
 - **February 26**: Siri presented a talk on the evolution of trees to the Friends Association of the Botanical Garden.
-- **February 26**: Excited to be starting a new NordForsk network called "Nordic Convergent Evolution Network - NCEN" [Link](https://www.nordforsk.org/projects/nordic-convergent-evolution-network)
+- **February 26**: We are excited to be starting a new NordForsk network, the Nordic Convergent Evolution Network (NCEN), bringing together early career researchers across the Nordics. [Link](https://www.nordforsk.org/projects/nordic-convergent-evolution-network)
 - **December 25**: Check out our popular scientific article on the evolution of trees in forskning.no! [Link](https://www.forskersonen.no/genetikk-meninger-natur/en-bjork-er-i-naermere-slekt-med-en-agurk-enn-med-et-grantre/2592783)
 - **October 25**: New paper in *Trends of Plant Science* "An updated perspective: what genes make a tree a tree?" [Link](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(25)00282-1?rss=yes)
 - **October 25**: In memory of Richard Abbott: "Phylogeography of Arctic plants: where are we after 35&nbsp;years, and where to go?" [Link](https://www.tandfonline.com/doi/full/10.1080/17550874.2025.2571098#abstract)
