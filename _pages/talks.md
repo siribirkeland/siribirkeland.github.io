@@ -15,7 +15,7 @@ Cassandra is a two year NSERC postdoctoral fellow studying the genomics of Arcti
 **E-mail:** [cassandra.elphinstone@gmail.com](mailto:cassandra.elphinstone@gmail.com)
 
 ### César Herrero González, Doctoral Research Fellow
-![Cesar Herrero Gonzalez](/images/Cesar.jpg)
+![Cesar Herrero Gonzalez](/images/Cesar_50.jpg)
 
 Cassandra is a two year NSERC postdoctoral fellow studying the genomics of Arctic plants in the Birkeland lab. She is also collaborating with and will spend about a third of her time in the Todesco Lab at the University of British Columbia in Vancouver, Canada. Her postdoctoral research is exploring the role of structural variation in local adaptation in selfing and outcrossing Arctic species. What types of genomic variation are involved in the local adaptation of plants to diverse tundra environments (single base pair changes and/or larger chromosomal rearrangements)? Does the genomics of local adaptation differ between tundra species that reproduce through self-fertilization (selfing) and species that rely on fertilization from other individuals (outcrossing)?
 
