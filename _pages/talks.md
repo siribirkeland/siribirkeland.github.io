@@ -25,7 +25,7 @@ César is a PhD candidate studying the genomic basis of plant adaptation to Arct
 
 ![Lise Huseby](/images/Lise_resized4.jpeg) 
 
-Lise is interested in the genetic basis of plant speciation and aims to test the snowball theory for the rate of evolution of hybrid incompatibilities in *Arabidopsis lyrata*. 
+Lise is a PhD candidate interested in the genomic basis of plant speciation and how it is influenced by mating system. She did her MSc thesis on the population genetics and ecology of the endangered plant *Drymocallis rupestris*. Lise is currently working at NORSKOG.
 
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
 
@@ -40,7 +40,7 @@ Fenna is an intern from Inholland University of Applied Sciences in the Netherla
 
 ![Marie Kristine Brandrud](/images/Marie_resize3.jpeg) 
 
-Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of redproductive incompatibilities in arctic selfing species, and Marie is currently working to genetically pinpoint those incompatibilities with QTL analysis in Cochlearia groenlandica. She also aims to investigate chromosome evolution in Cochlearia and will compare the Cochlearia groenlandica genome to its sister, Cochlearia excelsa, in a collaborative project with the Yant Lab at Nottingham University. 
+Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of redproductive incompatibilities in arctic selfing species, and Marie is currently working to genetically pinpoint those incompatibilities with QTL analysis in *Cochlearia groenlandica*. She also aims to investigate chromosome evolution in *Cochlearia* and will compare the *Cochlearia groenlandica* genome to its sister, *Cochlearia excelsa*, in a collaborative project with the Yant Lab at Nottingham University. 
 
 **E-mail:** [m.k.brandrud@nhm.uio.no](mailto:m.k.brandrud@nhm.uio.no)
 
