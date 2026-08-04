@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
+permalink: /values/
 title: "Our values"
 author_profile: true
 ---
