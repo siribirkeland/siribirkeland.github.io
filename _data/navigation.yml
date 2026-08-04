@@ -10,7 +10,7 @@ main:
     url: /publications/ 
 
   - title: "Our values"
-    url: /resources/
+    url: /values/
 
   - title: "Teaching"
     url: /teaching/    
