@@ -1,16 +1,21 @@
-# main links links
 main:
-- title: "Research"
-   url: /research/
-- title: "Team"
-  url: /team/   
-- title: "Publications"
-  url: /publications/ 
-#- title: "Our values"
-#  url: /values/
-- title: "Teaching"
-  url: /teaching/    
-#- title: "Blog Posts"
-#  url: /year-archive/
-- title: "Gallery"
-  url: /gallery/
+  - title: "Research"
+    url: /research/
+
+  - title: "Team"
+    url: /team/
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Our values"
+  #   url: /values/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "Gallery"
+    url: /gallery/
