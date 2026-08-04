@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Our values"
-    url: /values/
+#  - title: "Our values"
+#    url: /values/
 
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+  - title: "Gallery"
+  url: /gallery/
