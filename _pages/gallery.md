@@ -19,6 +19,9 @@ gallery:
   - url: gallery/Joshua_tree_Siri.jpeg
     image_path: gallery/Joshua_tree_Siri.jpeg
     alt: "Siri in Joshua tree"
+  - url: gallery/Dovre1.jpg
+    image_path: gallery/Dovre1.jpg
+    alt: "Dovre landscape"
 
 landscapes:
   - url: gallery/I_Cesar_Pepe_Christian_Dovre1.jpeg
