@@ -6,9 +6,9 @@ gallery:
   - url: /images/gallery/Fenna_NHM.jpg
     image_path: /images/gallery/Fenna_NHM.jpg
     alt: "Fenna prickling Drabas at the NHM"
-  - url: /images/gallery/dovre2.jpg
-    image_path: /images/gallery/dovre2.jpg
-    alt: "Arctic-alpine plants in habitat"
+  - url: /images/gallery/Cesar_Pepe_Christian_Dovre1.jpg
+    image_path: /images/gallery/Cesar_Pepe_Christian_Dovre1.jpg
+    alt: "César, Pepe and Christian at Sisshøa"
 ---
 
 {% include gallery caption="Photos from our research activities" %}
