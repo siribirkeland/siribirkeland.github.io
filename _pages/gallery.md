@@ -35,5 +35,7 @@ landscapes:
     alt: "Cassandra in Dovre"
 ---
 
-{% include gallery caption="Photos from our research activities" %}
+Photos from our research activities
+
+{% include gallery %}
 {% include gallery id="landscapes" %}
