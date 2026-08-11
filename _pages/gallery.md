@@ -36,5 +36,4 @@ landscapes:
 ---
 
 {% include gallery caption="Photos from our research activities" %}
-
-{% include gallery id="landscapes" caption="Fieldwork in Dovre" %}
+{% include gallery id="landscapes" %}
