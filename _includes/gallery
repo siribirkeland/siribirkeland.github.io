@@ -6,12 +6,10 @@
   {% assign gallery = page.gallery %}
 {% endif %}
 
-{% if gallery.size == 2 %}
+{% if include.id == "landscapes" %}
   {% assign gallery_layout = 'half' %}
-{% elsif gallery.size >= 3 %}
-  {% assign gallery_layout = 'third' %}
 {% else %}
-  {% assign gallery_layout = '' %}
+  {% assign gallery_layout = 'third' %}
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
