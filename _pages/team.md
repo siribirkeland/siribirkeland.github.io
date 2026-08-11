@@ -48,9 +48,9 @@ Marie is interested in genomics and speciation. The Brochmann-group at the Natur
 
 ![prospective student or postdoc 1](/images/Silhouette_resize.jpeg) 
 
-We welcome inquiries from motivated individuals who share our passion for plants and evolution! Whether you're a postdoctoral researcher seeking new challenges, a recent MSc looking to pursue a Ph.D., or a bachelor student seeking a potential master project, drop me an email at [siri.birkeland@nhm.uio.no](mailto:siri.birkeland@nhm.uio.no)! 
+We welcome inquiries from motivated students who share our passion for plants and evolution! I currently have MSc projects available for students interested in plant evolutionary genomics, ecology, and evolution. If you are looking for a potential master project, please get in touch at [siri.birkeland@nhm.uio.no](mailto:siri.birkeland@nhm.uio.no)! 
 
-We are also happy to support individual postdoc and researcher applications like the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), or the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). In addition, we have our own postdoctoral fellowship within the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which is announced at a yearly basis. 
+While I do not currently have funded PhD or postdoctoral positions available, I am happy to support strong candidates who are interested in developing their own fellowship or researcher applications. This includes opportunities such as the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) and the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). We also have postdoctoral opportunities through the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) research hub at the Natural History Museum, which are announced on a yearly basis. 
 
 ## Co-supervised with other labs
 
