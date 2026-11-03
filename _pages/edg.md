@@ -5,9 +5,9 @@ permalink: /edg/
 author_profile: true
 ---
 
-<img src="/images/edg-logo.jpg" alt="Evolution Discussion Group (EDG) logo" style="display: block; margin: 0 auto 1.5em; width: 400px; max-width: 90%;">
-
 ## What is the Evolution Discussion Group?
+
+<img src="/images/edg-logo.jpg" alt="Evolution Discussion Group (EDG) logo" style="float: right; width: 280px; max-width: 45%; margin: 0 0 1em 1.5em;">
 
 The Evolution Discussion Group (EDG) is a monthly meeting point for everyone interested in evolution. We discuss new, exciting, and classic papers that explore the questions at the heart of evolutionary biology.
 
