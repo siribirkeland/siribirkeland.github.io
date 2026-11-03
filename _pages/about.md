@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siri and I am an associate professor in plant evolutionary genomics at the Natural History Museum in Oslo, where I have led our research group since 2024. Welcome to our page! We study how plant diversity arises, with a particular focus on adaptation, speciation and convergent evolution in Arctic-alpine plants. By exploring the molecular basis of these processes, we aim to understand how plants evolve and adapt to some of the most extreme environments on Earth.
+Hi, my name is Siri and I am an associate professor in plant evolutionary genomics at the Natural History Museum in Oslo, where I have led a research group since 2024. Welcome to our page! We study how plant diversity arises, with a particular focus on adaptation, speciation and convergent evolution in Arctic-alpine plants. By exploring the molecular basis of these processes, we aim to understand how plants evolve and adapt to some of the most extreme environments on Earth.
 
 ![Blomsterdalen](/images/Blomsterdalen.JPG) <br />
 
