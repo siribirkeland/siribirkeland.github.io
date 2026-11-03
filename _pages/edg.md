@@ -15,7 +15,7 @@ EDG aims to create a social and informal space where students and employees from
 
 The meetings are also a chance to take a break from the everyday routine, drink coffee, enjoy some sugar, and get excited about evolutionary biology together.
 
-The group was inspired by the Evolution Discussion Group at the University of British Columbia.
+The group was inspired by the [Evolution Discussion Group at the University of British Columbia](https://www.zoology.ubc.ca/edg/).
 
 ## When and where?
 
@@ -58,7 +58,7 @@ We welcome contributions across scales, systems, and taxa - from genomes to foss
 
 ## Who can present?
 
-Anyone can suggest or present a paper. You can suggest a paper in our shared spreadsheet, and either you - or someone else - can volunteer to present it.
+Anyone can suggest or present a paper. You can suggest a paper in our [shared spreadsheet](https://docs.google.com/spreadsheets/d/1G4CY6sLhAwXBgIUE6UTujWjgTGlYggCkpanQ7Xxhy4g/edit?usp=sharing), and either you - or someone else - can volunteer to present it.
 
 We especially encourage students and postdocs to suggest and present papers. Preparing an EDG presentation is a great way to get deeply into a scientific paper, understand how research articles are constructed, and place a study within the broader scientific debate.
 
