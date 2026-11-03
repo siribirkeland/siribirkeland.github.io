@@ -10,7 +10,10 @@ redirect_from:
 
 Hi, my name is Siri and I am an associate professor in plant evolutionary genomics at the Natural History Museum in Oslo, where I have led a research group since 2024. Welcome to our page! We study how plant diversity arises, with a particular focus on adaptation, speciation and convergent evolution in Arctic-alpine plants. By exploring the molecular basis of these processes, we aim to understand how plants evolve and adapt to some of the most extreme environments on Earth.
 
-![Blomsterdalen](/images/Blomsterdalen.JPG) <br />
+<figure>
+  <img src="/images/Blomsterdalen.JPG" alt="Blomsterdalen (Valley of Flowers) near Tasiilaq, Greenland">
+  <figcaption>Blomsterdalen (Valley of Flowers), Tasiilaq, Greenland</figcaption>
+</figure>
 
 ## Lab news
 - **October 26**: We took part in the Norwegian Symposium of Biosystematics in Tromsø! PhD student César Herrero González gave his first conference presentation, and Siri gave a keynote on convergent evolution in Arctic plants. [Link](https://www.nhm.uio.no/english/studies/biocore/activities/events/norsk-symposium-i-biosystematikk.html)
