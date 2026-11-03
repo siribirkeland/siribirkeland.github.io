@@ -5,7 +5,7 @@ permalink: /edg/
 author_profile: true
 ---
 
-<img src="/images/edg-logo.jpg" alt="Evolution Discussion Group (EDG) logo" style="display: block; margin: 0 auto 1.5em; width: 260px; max-width: 70%;">
+<img src="/images/edg-logo.jpg" alt="Evolution Discussion Group (EDG) logo" style="display: block; margin: 0 auto 1.5em; width: 400px; max-width: 90%;">
 
 ## What is the Evolution Discussion Group?
 
