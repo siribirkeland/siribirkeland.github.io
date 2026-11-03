@@ -106,6 +106,8 @@ Fenna did her BSc internship with us from Inholland University of Applied Scienc
 
 Our lab is a part of the [EDGE group](https://www.nhm.uio.no/english/research/groups/edge/) at the Natural History Museum in Oslo. EDGE is an interdisciplinary research group consisting of people working on areas ranging from plant speciation and phylogenomics, the development of metabarcoding as a next-generation biodiversity assessment tool for society, and people's influence on wild plants through use and trade throughout history.   
 
+<div class="section-spacer"></div>
+
 ## Collaborators and friends
 
 - Abel Gizaw - NBIO, Norway  
