@@ -50,6 +50,8 @@ Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SD
 ## Preprints
 **Elphinstone C**, Sandler M, Stone P, Torres Jimenez MF, Henn JJ, Zhang X, **Birkeland S**, Brochmann C, Henry GHR, Todesco M, Bacon CD, & Rieseberg LH (2026). **Shared genomic signatures of Arctic adaptation among distantly related plant lineages**. Preprint available at *bioRxiv* [Link](https://doi.org/10.64898/2026.10.26.762098)
 
+Daru BH, **Birkeland S**, & Chala D (2025). **Vascular plant extinctions outpace colonizations under climate change**. Preprint available at *bioRxiv* [Link](https://doi.org/10.64898/2025.12.26.696646)
+
 Ove Nilsson, Teitur Ahlgren Kalman, Nicolas Delhomme et al. (2025) **1000 conifer genomes: Genome innovation, organisation and diversity**, Preprint available at *Research Square* [Link](https://doi.org/10.21203/rs.3.rs-6502828/v1)
 
 
