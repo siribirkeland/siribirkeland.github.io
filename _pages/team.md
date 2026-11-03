@@ -52,6 +52,15 @@ We welcome inquiries from motivated students who share our passion for plants an
 
 While I do not currently have funded PhD or postdoctoral positions available, I am happy to support strong candidates who are interested in developing their own fellowship or researcher applications. This includes opportunities such as the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) and the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). We also have postdoctoral opportunities through the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which are announced on a yearly basis. 
 
+## Mentor and Honorary Member
+
+### Christian Brochmann, Professor Emeritus
+![Christian Brochmann](/images/Christian_Brochmann.jpg)
+
+Christian is Professor Emeritus at the Natural History Museum, University of Oslo, where he led a research group on plant evolution with a special focus on speciation in Arctic plants. His research has spanned the evolution and biogeography of Arctic plants, including phylogeography, polyploid evolution and the history of the Arctic flora. He is an elected member of the Norwegian Academy of Science and Letters and received the University of Oslo's Research Prize in 2009. Christian remains a close mentor and collaborator, and still joins us for discussions and fieldwork, most recently in the Dovre Mountains.
+
+**E-mail:** [christian.brochmann@nhm.uio.no](mailto:christian.brochmann@nhm.uio.no)
+
 ## Co-supervised with other labs
 
 - Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
