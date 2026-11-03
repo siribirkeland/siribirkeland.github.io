@@ -9,9 +9,10 @@ author_profile: true
 **BIOCORE – National graduate research school** *Norway's four university natural history museums* [Link](https://www.nhm.uio.no/english/studies/biocore/)  
 A national graduate research school led by Norway's four university natural history museums. The research school offers cross-disciplinary training in biodiversity, with collections-based research at its core, drawing on the extensive natural history collections we manage. Within BIOCORE, we teach:
 
-- **Fieldwork Leadership**
-- **Speaking Science to the Public**
+**Fieldwork Leadership**  
+**Speaking Science to the Public**  
 
+### Courses at the University of Oslo:  
 **BIOS5214 – Biogeography and Biodiversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS5214/index-eng.html)  
 **BIOS4216 – Evolution and Systematics of Organismal Groups: The Plant Kingdom** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/index-eng.html)  
 **BIOS2200 – Botanical Diversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/BIOS2200/index-eng.html)  
