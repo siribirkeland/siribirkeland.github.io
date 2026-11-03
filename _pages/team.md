@@ -89,7 +89,7 @@ Christian is Professor Emeritus at the Natural History Museum, University of Osl
 
 ## Alumni
 
-### Fenna Sondorp, Intern (2026)
+### Fenna Sondorp, Intern (2025–2026)
 <div class="team-member" markdown="1">
 <img src="/images/team_fenna_square.jpg" alt="Fenna Sondorp" class="team-photo">
 
