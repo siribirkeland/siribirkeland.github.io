@@ -8,51 +8,84 @@ author_profile: true
 ## Current lab members
 
 ### Cassandra Elphinstone, Postdoc
-![Cassandra Elphinstone](/images/elphinstone_cassandra-1_50_1_75.jpg)
+<div class="team-member" markdown="1">
+<img src="/images/team_cassandra_square.jpg" alt="Cassandra Elphinstone" class="team-photo">
+
+<div class="team-text" markdown="1">
 
 Cassandra is a two year NSERC postdoctoral fellow studying the genomics of Arctic plants in the Birkeland lab. She is also collaborating with and will spend about a third of her time in the Todesco Lab at the University of British Columbia in Vancouver, Canada. Her postdoctoral research is exploring the role of structural variation in local adaptation in selfing and outcrossing Arctic species. What types of genomic variation are involved in the local adaptation of plants to diverse tundra environments (single base pair changes and/or larger chromosomal rearrangements)? Does the genomics of local adaptation differ between tundra species that reproduce through self-fertilization (selfing) and species that rely on fertilization from other individuals (outcrossing)?
 
 **E-mail:** [cassandra.elphinstone@gmail.com](mailto:cassandra.elphinstone@gmail.com)
 
+</div>
+</div>
+
 ### César Herrero González, Doctoral Research Fellow
-![Cesar Herrero Gonzalez](/images/Cesar_50_1_50.jpg)
+<div class="team-member" markdown="1">
+<img src="/images/team_cesar_square.jpg" alt="Cesar Herrero Gonzalez" class="team-photo">
+
+<div class="team-text" markdown="1">
 
 César is a PhD candidate studying the genomic basis of plant adaptation to Arctic environments. His research focuses on identifying convergent genomic signatures associated with adaptation to extreme conditions. He previously trained at the Universidad Complutense de Madrid, where he studied climate-driven variation in Mediterranean fir species, and completed his master’s at the Norwegian University of Life Sciences, working on the genomic and epigenomic structure of grasses.
 
 **E-mail:** [c.h.gonzalez@nhm.uio.no](mailto:c.h.gonzalez@nhm.uio.no)
 
-### Lise Grønnerød Huseby, Doctoral Research Fellow
+</div>
+</div>
 
-![Lise Huseby](/images/Lise_resized4.jpeg) 
+### Lise Grønnerød Huseby, Doctoral Research Fellow
+<div class="team-member" markdown="1">
+<img src="/images/Lise_resized4.jpeg" alt="Lise Huseby" class="team-photo">
+
+<div class="team-text" markdown="1">
 
 Lise is a PhD candidate interested in the genomic basis of plant speciation and how it is shaped by mating systems. She completed her MSc thesis on the population genetics and ecology of the endangered plant Drymocallis rupestris. She is currently working at NORSKOG.
 
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
 
-### Marie Kristine Brandrud, Guest Researcher
+</div>
+</div>
 
-![Marie Kristine Brandrud](/images/Marie_resize3.jpeg) 
+### Marie Kristine Brandrud, Guest Researcher
+<div class="team-member" markdown="1">
+<img src="/images/Marie_resize3.jpeg" alt="Marie Kristine Brandrud" class="team-photo">
+
+<div class="team-text" markdown="1">
 
 Marie is interested in genomics and speciation. The Brochmann-group at the Natural History Museum has previously showed an accumulation of redproductive incompatibilities in arctic selfing species, and Marie is currently working to genetically pinpoint those incompatibilities with QTL analysis in *Cochlearia groenlandica*. She also aims to investigate chromosome evolution in *Cochlearia* and will compare the *Cochlearia groenlandica* genome to its sister, *Cochlearia excelsa*, in a collaborative project with the Yant Lab at Nottingham University. 
 
 **E-mail:** [m.k.brandrud@nhm.uio.no](mailto:m.k.brandrud@nhm.uio.no)
 
-### You?
+</div>
+</div>
 
-![prospective student or postdoc 1](/images/Silhouette_resize.jpeg) 
+### You?
+<div class="team-member" markdown="1">
+<img src="/images/Silhouette_resize.jpeg" alt="prospective student or postdoc 1" class="team-photo">
+
+<div class="team-text" markdown="1">
 
 We welcome inquiries from motivated students who share our passion for plants and evolution! I currently have MSc projects available for students interested in plant evolutionary genomics, ecology, and evolution. If you are looking for a potential master project, please get in touch at [siri.birkeland@nhm.uio.no](mailto:siri.birkeland@nhm.uio.no)! 
 
-While I do not currently have funded PhD or postdoctoral positions available, I am happy to support strong candidates who are interested in developing their own fellowship or researcher applications. This includes opportunities such as the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) and the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). We also have postdoctoral opportunities through the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which are announced on a yearly basis. 
+While I do not currently have funded PhD or postdoctoral positions available, I am happy to support strong candidates who are interested in developing their own fellowship or researcher applications. This includes opportunities such as the [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) and the [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). We also have postdoctoral opportunities through the [STADIS research hub](https://www.nhm.uio.no/english/research/groups/stadis/) at the Natural History Museum, which are announced on a yearly basis.
+
+</div>
+</div>
 
 ## Mentor and Honorary Member
 
 ### Christian Brochmann, Professor Emeritus
-![Christian Brochmann](/images/Christian_Brochmann.jpg)
+<div class="team-member" markdown="1">
+<img src="/images/Christian_Brochmann.jpg" alt="Christian Brochmann" class="team-photo">
+
+<div class="team-text" markdown="1">
 
 Christian is Professor Emeritus at the Natural History Museum, University of Oslo, where he led a research group on plant evolution with a special focus on speciation in Arctic plants. His research has spanned the evolution and biogeography of Arctic plants, including phylogeography, polyploid evolution and the history of the Arctic flora. He is an elected member of the Norwegian Academy of Science and Letters and received the University of Oslo's Research Prize in 2009. Christian remains a close mentor and collaborator, and still joins us for discussions and fieldwork, most recently in the Dovre Mountains.
 
 **E-mail:** [christian.brochmann@nhm.uio.no](mailto:christian.brochmann@nhm.uio.no)
+
+</div>
+</div>
 
 ## Alumni
 
