@@ -11,8 +11,6 @@ Rodriguez ER\*, **Birkeland S**\*, Chapple ED\*, Fredriksson S, Carracedo Lorenz
 
 <img src="/images/cover-tps-2026.jpg" alt="Trends in Plant Science cover, January 2026: What genes make a tree a tree?" style="float: right; width: 100px; margin: 0 0 0.5em 1em;">**Birkeland S**, Soldado ER, Ranade SS, García-Gil MR, Choudhary S, Tuominen H, Mellerowicz EJ, Street NR, & Hvidsten TR (2026). **An updated perspective: what genes make a tree a tree?** *Trends in Plant Science*, 31(1). *Cover story*. [Link](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(25)00282-1?rss=yes)
 
-<div style="clear: both;"></div>
-
 Brochmann C, **Elphinstone C**, **Birkeland S**, Ikeda H, Eidesen PB, Alsos IG, & Westergaard KB (2025). **Phylogeography of Arctic plants: where are we after 35&nbsp;years, and where to go**. *Plant Ecology & Diversity*, 1–25. [Link](https://doi.org/10.1080/17550874.2025.2571098)
 
 Hoitinga PK, & **Birkeland S** (2025). **Pathway-level convergence: an underexplored aspect of convergent evolution**. *Trends in Genetics*, 41(10), 853–867. [Link](https://doi.org/10.1016/j.tig.2025.06.009)
