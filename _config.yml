@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter birkeland_siri
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "birkeland_siri"
+  twitter          :
   bsky             : "siribirkeland.bsky.social"
   vine             :
   weibo            :
