@@ -89,7 +89,16 @@ Christian is Professor Emeritus at the Natural History Museum, University of Osl
 
 ## Alumni
 
-- Fenna Sondorp, Intern (2026): BSc internship from Inholland University of Applied Sciences, Netherlands, on long-read sequencing of Arctic plants
+### Fenna Sondorp, Intern (2026)
+<div class="team-member" markdown="1">
+<img src="/images/team_fenna_square.jpg" alt="Fenna Sondorp" class="team-photo">
+
+<div class="team-text" markdown="1">
+
+Fenna did her BSc internship with us from Inholland University of Applied Sciences in the Netherlands, working on long-read sequencing of Arctic plants. She successfully defended her thesis in June 2026.
+
+</div>
+</div>
 
 ## The EDGE group
 
