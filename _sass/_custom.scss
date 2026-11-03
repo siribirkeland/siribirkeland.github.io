@@ -8,7 +8,7 @@
   display: flex;
   align-items: flex-start;
   gap: 1.5em;
-  margin-bottom: 1.5em;
+  margin-bottom: 2.5em;
 
   > p {
     flex: 0 0 150px;
@@ -44,4 +44,9 @@
       height: 90px;
     }
   }
+}
+
+/* Extra breathing room before a section heading */
+.section-spacer {
+  height: 1.5em;
 }
