@@ -23,7 +23,4 @@ A national graduate research school led by Norway's four university natural hist
 **ISSMN4030 – A Changing Arctic** *University of Oslo* [Link](https://www.uio.no/studier/emner/iss/nora-sommerskolen/ISSMN4030/)  
 **BIO1200 - Biodiversity** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO1200/index-eng.html) (Now discontinued)  
 **BIO2120 – Evolutionary Biology** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/index-eng.html) (Now discontinued)  
-**BIO1000 - Elementary Biology** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO1000/index-eng.html) (Now discontinued)  
-
-### Other courses and projects:   
-**Teaching partnership between the Natural History Museum and Hersleb videregående skole**  
+**BIO1000 - Elementary Biology** *University of Oslo* [Link](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO1000/index-eng.html) (Now discontinued)
