@@ -35,7 +35,7 @@ César is a PhD candidate studying the genomic basis of plant adaptation to Arct
 
 ### Lise Grønnerød Huseby, Doctoral Research Fellow
 <div class="team-member" markdown="1">
-<img src="/images/Lise_resized4.jpeg" alt="Lise Huseby" class="team-photo">
+<img src="/images/team_lise_square.jpg" alt="Lise Huseby" class="team-photo">
 
 <div class="team-text" markdown="1">
 
