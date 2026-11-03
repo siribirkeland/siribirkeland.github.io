@@ -2,3 +2,46 @@
 .landscape-gallery {
   margin-top: -1em;
 }
+
+/* Team page: round photos with text to the right */
+.team-member {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5em;
+  margin-bottom: 1.5em;
+
+  > p {
+    flex: 0 0 150px;
+    margin: 0;
+  }
+
+  .team-photo {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .team-text {
+    flex: 1 1 auto;
+    min-width: 0;
+
+    p:first-child {
+      margin-top: 0;
+    }
+  }
+
+  @media (max-width: 600px) {
+    gap: 1em;
+
+    > p {
+      flex-basis: 90px;
+    }
+
+    .team-photo {
+      width: 90px;
+      height: 90px;
+    }
+  }
+}
