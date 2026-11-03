@@ -42,5 +42,8 @@ Convergent evolution is an ubiquitous pattern in nature: In plants, carnivory ha
 
 We recently investigated whether evolution follows parallel genetic routes when three plant species independently adapted to the extreme temperature and light conditions of the Arctic region. Our primary discovery revealed that despite originating from different lineages, the three species appeared to have evolved similar suites of adaptations by modifying different components in similar stress response pathways. This indicates that there are many genetic trajectories for adaptation to the Arctic environment. The revelation that there might be greater evolutionary repeatability at the pathway level has sparked our keen interest in exploring the convergent evolution of pathways and networks.
 
-![Extractions](/images/RNA.png) <br />
+<figure>
+  <img src="/images/RNA.png" alt="RNA extracts from Arctic plants">
+  <figcaption>RNA extracts from Arctic plants</figcaption>
+</figure>
 
