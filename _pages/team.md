@@ -29,13 +29,6 @@ Lise is a PhD candidate interested in the genomic basis of plant speciation and 
 
 **E-mail:** [l.g.huseby@nhm.uio.no](mailto:l.g.huseby@nhm.uio.no)
 
-### Fenna Sondorp, Intern
-![Fenna Sondorp](/images/Fenna_NHM_50_1_50.jpg)
-
-Fenna is an intern from Inholland University of Applied Sciences in the Netherlands, pursuing a bachelor’s degree in Biology and Medical Laboratory Research. She is currently completing an internship focused on long-read sequencing of Arctic plants.
-
-**E-mail:** [fennasondorp@gmail.com](mailto:fennasondorp@gmail.com)
-
 ### Marie Kristine Brandrud, Guest Researcher
 
 ![Marie Kristine Brandrud](/images/Marie_resize3.jpeg) 
@@ -61,10 +54,9 @@ Christian is Professor Emeritus at the Natural History Museum, University of Osl
 
 **E-mail:** [christian.brochmann@nhm.uio.no](mailto:christian.brochmann@nhm.uio.no)
 
-## Co-supervised with other labs
+## Alumni
 
-- Ellen Dimmen Chapple: Master student in the Hvidsten lab, Norwegian University of Life Sciences
-- Samuel Fredriksson: Master student in the Hvidsten lab, Norwegian University of Life Sciences
+- Fenna Sondorp, Intern (2026): BSc internship from Inholland University of Applied Sciences, Netherlands, on long-read sequencing of Arctic plants
 
 ## The EDGE group
 
