@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Publications
+## Peer-reviewed publications
 Rodriguez ER\*, **Birkeland S**\*, Chapple ED\*, Fredriksson S, Carracedo Lorenzo Z, Ahlgren Kalman T, Kumar V, Mccann J, Hill J, Soundiramourtty S, Voxeur A, Røhr ÅK, Tuominen H, Mellerowicz EJ, Street NR, & Hvidsten TR (2026). **Comparative regulomics of wood formation across dicot and conifer trees**. *Nature Communications*, 17(1). [Link](https://doi.org/10.1038/s41467-026-75624-2)
 
 **Birkeland S**, Soldado ER, Ranade SS, García-Gil MR, Choudhary S, Tuominen H, Mellerowicz EJ, Street NR, & Hvidsten TR (now online). **An updated perspective: what genes make a tree a tree?** *Trends in Plant Science*. [Link](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(25)00282-1?rss=yes)
@@ -48,6 +48,8 @@ Westengen OT, Okongo MA, Onek L, Berg T, Upadhyaya H, **Birkeland S**, Khalsa SD
 *\*shared contribution*
 
 ## Preprints
+**Elphinstone C**, Sandler M, Stone P, Torres Jimenez MF, Henn JJ, Zhang X, **Birkeland S**, Brochmann C, Henry GHR, Todesco M, Bacon CD, & Rieseberg LH (2026). **Shared genomic signatures of Arctic adaptation among distantly related plant lineages**. Preprint available at *bioRxiv* [Link](https://doi.org/10.64898/2026.10.26.762098)
+
 Ove Nilsson, Teitur Ahlgren Kalman, Nicolas Delhomme et al. (2025) **1000 conifer genomes: Genome innovation, organisation and diversity**, Preprint available at *Research Square* [Link](https://doi.org/10.21203/rs.3.rs-6502828/v1)
 
 
