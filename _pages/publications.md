@@ -35,7 +35,7 @@ Cerca J, Petersen B, Lazaro-Guevara JM, Rivera-Colón A, **Birkeland S**, Vizuet
 
 <img src="/images/cover-mer-2021.jpg" alt="Molecular Ecology Resources cover, April 2021: the genome of Draba nivalis" style="float: right; width: 100px; margin: 0 0 0.5em 1em;">Nowak MD, **Birkeland S**, Mandáková T, Choudhury RR, Guo X, Gustafsson ALS, Gizaw A, Schrøder-Nielsen A, Fracassetti M, Brysting AK, Rieseberg L, Slotte T, Parisod C, Lysak MA, Brochmann C (2021). **The genome of Draba nivalis shows signatures of adaptation to the extreme environmental stresses of the Arctic**. *Molecular Ecology Resources*. 21(3):661–676. *Main Cover Story*. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13280)
 
-**Birkeland S**, Gustafsson ALS, Brysting AK, Brochmann C, Nowak MD (2020). **Multiple genetic trajectories to extreme abiotic stress adaptation in Arctic Brassicaceae**. *Molecular Biology and Evolution*. 37(7): 2052–2068. *Cover story*. [Link](https://academic.oup.com/mbe/article/37/7/2052/5804990?login=true) 
+**Birkeland S**, Gustafsson ALS, Brysting AK, Brochmann C, Nowak MD (2020). **Multiple genetic trajectories to extreme abiotic stress adaptation in Arctic Brassicaceae**. *Molecular Biology and Evolution*. 37(7): 2052–2068. *Featured on the journal's front page*. [Link](https://academic.oup.com/mbe/article/37/7/2052/5804990?login=true) 
 
 Struck TH, Feder JL, Bendiksby M, **Birkeland S**, Cerca J, Gusarov VI, Kistenich S, Larsson K-H, Liow LH, Nowak MD, Stedje B, Bachmann L, Dimitrov D (2018). **Finding Evolutionary Processes Hidden in Cryptic Species**. *Trends in Ecology and Evolution*. 33(3):153–163. [Link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30290-2)
 
