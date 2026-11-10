@@ -7,7 +7,7 @@ author_profile: true
 
 ## What is the Evolution Discussion Group?
 
-<img src="/images/edg-logo.jpg" alt="Evolution Discussion Group (EDG) logo" style="float: right; width: 280px; max-width: 45%; margin: 0 0 1em 1.5em;">
+<img src="/images/edg-logo.png" alt="Evolution Discussion Group (EDG) logo" style="float: right; width: 280px; max-width: 45%; margin: 0 0 1em 1.5em;">
 
 The Evolution Discussion Group (EDG) is a monthly meeting point at the Natural History Museum in Oslo for everyone interested in evolution. We discuss new, exciting, and classic papers that explore the questions at the heart of evolutionary biology.
 
